@@ -1,0 +1,109 @@
+﻿  Starting remote build
+  Compiling sources:
+  main.cpp
+C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\main.cpp(23,23): warning : unused variable ‘caliInfo’ [-Wunused-variable]
+  u6.c
+C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(80,14): warning : conversion to ‘uint16 {aka short unsigned int}’ from ‘int’ may alter its value [-Wconversion]
+C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(83,9): warning : conversion to ‘uint16 {aka short unsigned int}’ from ‘int’ may alter its value [-Wconversion]
+C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(98,12): warning : conversion to ‘uint16 {aka short unsigned int}’ from ‘int’ may alter its value [-Wconversion]
+C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(259,15): warning : conversion to ‘int’ from ‘long unsigned int’ may alter its value [-Wconversion]
+C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(268,15): warning : conversion to ‘int’ from ‘long unsigned int’ may alter its value [-Wconversion]
+C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(292,19): warning : conversion to ‘int’ from ‘long unsigned int’ may alter its value [-Wconversion]
+C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(301,19): warning : conversion to ‘int’ from ‘long unsigned int’ may alter its value [-Wconversion]
+C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(360,17): warning : conversion to ‘uint8 {aka unsigned char}’ from ‘int’ may alter its value [-Wconversion]
+C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(369,11): warning : conversion to ‘int’ from ‘long int’ may alter its value [-Wconversion]
+C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(463,18): warning : conversion to ‘uint32 {aka unsigned int}’ from ‘double’ may alter its value [-Wfloat-conversion]
+C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(500,18): warning : conversion to ‘uint32 {aka unsigned int}’ from ‘double’ may alter its value [-Wfloat-conversion]
+C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(547,45): warning : conversion to ‘long unsigned int’ from ‘int’ may change the sign of the result [-Wsign-conversion]
+C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(548,44): warning : conversion to ‘long unsigned int’ from ‘int’ may change the sign of the result [-Wsign-conversion]
+C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(554,19): warning : conversion to ‘uint8 {aka unsigned char}’ from ‘int’ may alter its value [-Wconversion]
+C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(572,48): warning : conversion to ‘long unsigned int’ from ‘int’ may change the sign of the result [-Wsign-conversion]
+C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(572,17): warning : conversion to ‘int’ from ‘long unsigned int’ may alter its value [-Wconversion]
+C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(584,45): warning : conversion to ‘long unsigned int’ from ‘int’ may change the sign of the result [-Wsign-conversion]
+C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(584,16): warning : conversion to ‘int’ from ‘long unsigned int’ may alter its value [-Wconversion]
+C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(641,21): warning : conversion to ‘uint32 {aka unsigned int}’ from ‘int’ may change the sign of the result [-Wsign-conversion]
+C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(642,24): warning : conversion to ‘uint32 {aka unsigned int}’ from ‘double’ may alter its value [-Wfloat-conversion]
+C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(724,23): warning : conversion to ‘uint8 {aka unsigned char}’ from ‘int’ may alter its value [-Wconversion]
+C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(725,23): warning : conversion to ‘uint8 {aka unsigned char}’ from ‘int’ may alter its value [-Wconversion]
+C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(743,53): warning : conversion to ‘int’ from ‘long int’ may alter its value [-Wconversion]
+C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(749,55): warning : conversion to ‘int’ from ‘long int’ may alter its value [-Wconversion]
+C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(779,23): warning : conversion to ‘uint8 {aka unsigned char}’ from ‘long int’ may alter its value [-Wconversion]
+C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(810,23): warning : conversion to ‘uint8 {aka unsigned char}’ from ‘long int’ may alter its value [-Wconversion]
+C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(813,23): warning : conversion to ‘uint8 {aka unsigned char}’ from ‘long int’ may alter its value [-Wconversion]
+C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(838,23): warning : conversion to ‘uint8 {aka unsigned char}’ from ‘long int’ may alter its value [-Wconversion]
+C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(841,23): warning : conversion to ‘uint8 {aka unsigned char}’ from ‘long int’ may alter its value [-Wconversion]
+C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(890,25): warning : conversion to ‘uint8 {aka unsigned char}’ from ‘double’ may alter its value [-Wfloat-conversion]
+C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(894,56): warning : conversion to ‘uint8 {aka unsigned char}’ from ‘long int’ may alter its value [-Wconversion]
+C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(906,33): warning : conversion to ‘uint8 {aka unsigned char}’ from ‘int’ may alter its value [-Wconversion]
+C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(942,46): warning : conversion to ‘uint8 {aka unsigned char}’ from ‘int’ may alter its value [-Wconversion]
+C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(956,46): warning : conversion to ‘uint8 {aka unsigned char}’ from ‘int’ may alter its value [-Wconversion]
+C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(1018,22): warning : conversion to ‘int’ from ‘long unsigned int’ may alter its value [-Wconversion]
+C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(1028,21): warning : conversion to ‘int’ from ‘long unsigned int’ may alter its value [-Wconversion]
+C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(1097,22): warning : conversion to ‘int’ from ‘long unsigned int’ may alter its value [-Wconversion]
+C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(1107,21): warning : conversion to ‘int’ from ‘long unsigned int’ may alter its value [-Wconversion]
+C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(1166,24): warning : conversion to ‘int’ from ‘long int’ may alter its value [-Wconversion]
+C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(1168,23): warning : conversion to ‘int’ from ‘long int’ may alter its value [-Wconversion]
+C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(1171,45): warning : conversion to ‘long unsigned int’ from ‘int’ may change the sign of the result [-Wsign-conversion]
+C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(1172,44): warning : conversion to ‘long unsigned int’ from ‘int’ may change the sign of the result [-Wsign-conversion]
+C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(1184,19): warning : conversion to ‘uint8 {aka unsigned char}’ from ‘int’ may alter its value [-Wconversion]
+C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(1196,53): warning : conversion to ‘long unsigned int’ from ‘int’ may change the sign of the result [-Wsign-conversion]
+C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(1196,22): warning : conversion to ‘int’ from ‘long unsigned int’ may alter its value [-Wconversion]
+C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(1207,50): warning : conversion to ‘long unsigned int’ from ‘int’ may change the sign of the result [-Wsign-conversion]
+C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(1207,21): warning : conversion to ‘int’ from ‘long unsigned int’ may alter its value [-Wconversion]
+  Linking objects
+C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjackusb.o : error : In function `LJUSB_libusb_exit':
+/home/csd/Anurag/exodriver-master/liblabjackusb/labjackusb.c(474): error : undefined reference to `libusb_exit'
+C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjackusb.o : error : In function `LJUSB_OpenDevice':
+/home/csd/Anurag/exodriver-master/liblabjackusb/labjackusb.c(500): error : undefined reference to `libusb_init'
+/home/csd/Anurag/exodriver-master/liblabjackusb/labjackusb.c(509): error : undefined reference to `libusb_get_device_list'
+/home/csd/Anurag/exodriver-master/liblabjackusb/labjackusb.c(521): error : undefined reference to `libusb_get_device_descriptor'
+/home/csd/Anurag/exodriver-master/liblabjackusb/labjackusb.c(533): error : undefined reference to `libusb_open'
+/home/csd/Anurag/exodriver-master/liblabjackusb/labjackusb.c(540): error : undefined reference to `libusb_kernel_driver_active'
+/home/csd/Anurag/exodriver-master/liblabjackusb/labjackusb.c(546): error : undefined reference to `libusb_detach_kernel_driver'
+/home/csd/Anurag/exodriver-master/liblabjackusb/labjackusb.c(555): error : undefined reference to `libusb_claim_interface'
+/home/csd/Anurag/exodriver-master/liblabjackusb/labjackusb.c(558): error : undefined reference to `libusb_close'
+/home/csd/Anurag/exodriver-master/liblabjackusb/labjackusb.c(569): error : undefined reference to `libusb_free_device_list'
+C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjackusb.o : error : In function `LJUSB_OpenAllDevices':
+/home/csd/Anurag/exodriver-master/liblabjackusb/labjackusb.c(597): error : undefined reference to `libusb_init'
+/home/csd/Anurag/exodriver-master/liblabjackusb/labjackusb.c(606): error : undefined reference to `libusb_get_device_list'
+/home/csd/Anurag/exodriver-master/liblabjackusb/labjackusb.c(618): error : undefined reference to `libusb_get_device_descriptor'
+/home/csd/Anurag/exodriver-master/liblabjackusb/labjackusb.c(628): error : undefined reference to `libusb_open'
+/home/csd/Anurag/exodriver-master/liblabjackusb/labjackusb.c(635): error : undefined reference to `libusb_kernel_driver_active'
+/home/csd/Anurag/exodriver-master/liblabjackusb/labjackusb.c(641): error : undefined reference to `libusb_detach_kernel_driver'
+/home/csd/Anurag/exodriver-master/liblabjackusb/labjackusb.c(646): error : undefined reference to `libusb_close'
+/home/csd/Anurag/exodriver-master/liblabjackusb/labjackusb.c(651): error : undefined reference to `libusb_claim_interface'
+/home/csd/Anurag/exodriver-master/liblabjackusb/labjackusb.c(654): error : undefined reference to `libusb_close'
+/home/csd/Anurag/exodriver-master/liblabjackusb/labjackusb.c(671): error : undefined reference to `libusb_close'
+/home/csd/Anurag/exodriver-master/liblabjackusb/labjackusb.c(676): error : undefined reference to `libusb_close'
+/home/csd/Anurag/exodriver-master/liblabjackusb/labjackusb.c(681): error : undefined reference to `libusb_free_device_list'
+C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjackusb.o : error : In function `LJUSB_ResetConnection':
+/home/csd/Anurag/exodriver-master/liblabjackusb/labjackusb.c(698): error : undefined reference to `libusb_reset_device'
+C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjackusb.o : error : In function `LJUSB_DoTransfer':
+/home/csd/Anurag/exodriver-master/liblabjackusb/labjackusb.c(730): error : undefined reference to `libusb_bulk_transfer'
+/home/csd/Anurag/exodriver-master/liblabjackusb/labjackusb.c(735): error : undefined reference to `libusb_control_transfer'
+/home/csd/Anurag/exodriver-master/liblabjackusb/labjackusb.c(748): error : undefined reference to `libusb_interrupt_transfer'
+C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjackusb.o : error : In function `LJUSB_SetupTransfer':
+/home/csd/Anurag/exodriver-master/liblabjackusb/labjackusb.c(795): error : undefined reference to `libusb_get_device'
+/home/csd/Anurag/exodriver-master/liblabjackusb/labjackusb.c(796): error : undefined reference to `libusb_get_device_descriptor'
+C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjackusb.o : error : In function `LJUSB_CloseDevice':
+/home/csd/Anurag/exodriver-master/liblabjackusb/labjackusb.c(1031): error : undefined reference to `libusb_release_interface'
+/home/csd/Anurag/exodriver-master/liblabjackusb/labjackusb.c(1034): error : undefined reference to `libusb_close'
+C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjackusb.o : error : In function `LJUSB_GetDevCount':
+/home/csd/Anurag/exodriver-master/liblabjackusb/labjackusb.c(1050): error : undefined reference to `libusb_init'
+/home/csd/Anurag/exodriver-master/liblabjackusb/labjackusb.c(1059): error : undefined reference to `libusb_get_device_list'
+/home/csd/Anurag/exodriver-master/liblabjackusb/labjackusb.c(1073): error : undefined reference to `libusb_get_device_descriptor'
+/home/csd/Anurag/exodriver-master/liblabjackusb/labjackusb.c(1084): error : undefined reference to `libusb_free_device_list'
+C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjackusb.o : error : In function `LJUSB_GetDevCounts':
+/home/csd/Anurag/exodriver-master/liblabjackusb/labjackusb.c(1103): error : undefined reference to `libusb_init'
+/home/csd/Anurag/exodriver-master/liblabjackusb/labjackusb.c(1112): error : undefined reference to `libusb_get_device_list'
+/home/csd/Anurag/exodriver-master/liblabjackusb/labjackusb.c(1124): error : undefined reference to `libusb_get_device_descriptor'
+/home/csd/Anurag/exodriver-master/liblabjackusb/labjackusb.c(1163): error : undefined reference to `libusb_free_device_list'
+C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjackusb.o : error : In function `LJUSB_IsHandleValid':
+/home/csd/Anurag/exodriver-master/liblabjackusb/labjackusb.c(1237): error : undefined reference to `libusb_control_transfer'
+C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjackusb.o : error : In function `LJUSB_GetDeviceDescriptorReleaseNumber':
+/home/csd/Anurag/exodriver-master/liblabjackusb/labjackusb.c(1267): error : undefined reference to `libusb_get_device'
+/home/csd/Anurag/exodriver-master/liblabjackusb/labjackusb.c(1268): error : undefined reference to `libusb_get_device_descriptor'
+C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjackusb.o : error : In function `LJUSB_GetHIDReportDescriptor':
+/home/csd/Anurag/exodriver-master/liblabjackusb/labjackusb.c(1293): error : undefined reference to `libusb_get_device'
+/home/csd/Anurag/exodriver-master/liblabjackusb/labjackusb.c(1294): error : undefined reference to `libusb_get_device_descriptor'
+/home/csd/Anurag/exodriver-master/liblabjackusb/labjackusb.c(1307): error : undefined reference to `libusb_control_transfer'

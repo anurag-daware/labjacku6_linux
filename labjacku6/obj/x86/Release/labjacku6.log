@@ -1,0 +1,1491 @@
+﻿     0>Search paths being used for $(MSBuildExtensionsPath) are C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild;$(MSBuildProgramFiles32)\MSBuild
+       Trying to import C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\$(MSBuildToolsVersion)\Microsoft.Common.props using extensions path C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild
+       Property reassignment: $(MSBuildProjectExtensionsPath)="C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\obj\" (previous value: "obj\") at C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Microsoft.Common.props (56,5)
+       Search paths being used for $(MSBuildExtensionsPath) are C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild;$(MSBuildProgramFiles32)\MSBuild
+       Trying to import C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\$(MSBuildToolsVersion)\Imports\Microsoft.Common.props\ImportBefore\* using extensions path C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild
+       Search paths being used for $(MSBuildExtensionsPath) are C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild;$(MSBuildProgramFiles32)\MSBuild
+       The "Configuration" property is a global property, and cannot be modified.
+       Search paths being used for $(MSBuildExtensionsPath) are C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild;$(MSBuildProgramFiles32)\MSBuild
+       Search paths being used for $(MSBuildExtensionsPath) are C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild;$(MSBuildProgramFiles32)\MSBuild
+       Property reassignment: $(Platform)="Win32" (previous value: "x86") at C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.Cpp.Default.props (43,5)
+       Property reassignment: $(_RelativeApplicationTypeFolder)="Application Type\Linux\" (previous value: "") at C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.Cpp.Default.props (63,5)
+       Property reassignment: $(_RelativeApplicationTypeRevisionFolder)="Application Type\Linux\1.0\" (previous value: "") at C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.Cpp.Default.props (64,5)
+       Property reassignment: $(Platform)="x86" (previous value: "Win32") at C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Application Type\Linux\Default.props (21,5)
+       Property reassignment: $(RemoteRootDir)="~/projects" (previous value: "") at C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Application Type\Linux\1.0\Default.props (29,5)
+       The "Configuration" property is a global property, and cannot be modified.
+       The "SolutionDir" property is a global property, and cannot be modified.
+       Property reassignment: $(MSBuildAllProjects)=";C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjacku6.vcxproj;C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Common.targets;C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjacku6.vcxproj.user" (previous value: ";C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjacku6.vcxproj;C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Common.targets") at C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.Cpp.Default.props (169,5)
+       Property reassignment: $(PlatformToolset)="WSL_1_0" (previous value: "Remote_GCC_1_0") at C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjacku6.vcxproj (59,5)
+       Property reassignment: $(CharacterSet)="Unicode" (previous value: "NotSet") at C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Application Type\Linux\1.0\Linux.WSL.props (49,5)
+       Property reassignment: $(TargetExt)=".out" (previous value: "") at C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Application Type\Linux\1.0\Linux.WSL.props (98,5)
+       The "SolutionExt" property is a global property, and cannot be modified.
+       Property reassignment: $(ExtensionsToDeleteOnClean)="*.d;*.tlog;;C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\bin\x86\Release\labjacku6.out.manifest;C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\bin\x86\Release\labjacku6.tlb;C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\bin\x86\Release\labjacku6.pdb;C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\bin\x86\Release\labjacku6.out;C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\bin\x86\Release\labjacku6.bsc;C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\bin\x86\Release\labjacku6.ilk;C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\bin\x86\Release\labjacku6.out.intermediate.manifest" (previous value: "*.d;*.tlog;") at C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets (35,5)
+       Search paths being used for $(MSBuildExtensionsPath) are C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild;$(MSBuildProgramFiles32)\MSBuild
+       Search paths being used for $(MSBuildExtensionsPath) are C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild;$(MSBuildProgramFiles32)\MSBuild
+       Trying to import C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\$(MSBuildToolsVersion)\Microsoft.Common.targets\ImportBefore\* using extensions path C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild
+       The "Configuration" property is a global property, and cannot be modified.
+       Property reassignment: $(_DocumentationFileProduced)="false" (previous value: "true") at C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets (157,5)
+       Property reassignment: $(TargetDir)="C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\bin\x86\Release\" (previous value: "C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\bin\x86\Release") at C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets (283,5)
+       The "DevEnvDir" property is a global property, and cannot be modified.
+       The "SolutionName" property is a global property, and cannot be modified.
+       The "SolutionFileName" property is a global property, and cannot be modified.
+       The "SolutionPath" property is a global property, and cannot be modified.
+       The "SolutionDir" property is a global property, and cannot be modified.
+       The "SolutionExt" property is a global property, and cannot be modified.
+       Property reassignment: $(AutoUnifyAssemblyReferences)="false" (previous value: "true") at C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets (332,5)
+       Property reassignment: $(DelaySign)="" (previous value: "false") at C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets (525,5)
+       Property reassignment: $(_SGenGenerateSerializationAssembliesConfig)="Auto" (previous value: "") at C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets (3500,5)
+       Property reassignment: $(PrepareForBuildDependsOn)="GetFrameworkPaths;GetReferenceAssemblyPaths;AssignLinkMetadata;SetCABuildNativeEnvironmentVariables" (previous value: "GetFrameworkPaths;GetReferenceAssemblyPaths;AssignLinkMetadata") at C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VisualStudio\v16.0\CodeAnalysis\Microsoft.CodeAnalysis.targets (235,5)
+       Property reassignment: $(PrepareResourcesDependsOn)="
+             XamlMarkupCompilePass1;
+             XamlMarkupCompilePass2;
+             
+             PrepareResourceNames;
+             ResGen;
+             CompileLicxFiles
+            
+           " (previous value: "
+             PrepareResourceNames;
+             ResGen;
+             CompileLicxFiles
+           ") at C:\WINDOWS\Microsoft.NET\Framework\v4.0.30319\Microsoft.Xaml.targets (35,5)
+       Property reassignment: $(MSBuildAllProjects)=";C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjacku6.vcxproj;C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Common.targets;C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjacku6.vcxproj.user;C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Xaml.targets" (previous value: ";C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjacku6.vcxproj;C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Common.targets;C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjacku6.vcxproj.user") at C:\WINDOWS\Microsoft.NET\Framework\v4.0.30319\Microsoft.Xaml.targets (48,5)
+       Property reassignment: $(ResolveReferencesDependsOn)="
+             
+             BeforeResolveReferences;
+             AssignProjectConfiguration;
+             ResolveProjectReferences;
+             FindInvalidProjectReferences;
+             ResolveNativeReferences;
+             ResolveAssemblyReferences;
+             GenerateBindingRedirects;
+             ResolveComReferences;
+             AfterResolveReferences
+           ;
+             ResolveTestReferences
+           " (previous value: "
+             BeforeResolveReferences;
+             AssignProjectConfiguration;
+             ResolveProjectReferences;
+             FindInvalidProjectReferences;
+             ResolveNativeReferences;
+             ResolveAssemblyReferences;
+             GenerateBindingRedirects;
+             ResolveComReferences;
+             AfterResolveReferences
+           ") at C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VisualStudio\v16.0\TeamTest\Microsoft.TeamTest.targets (4,5)
+       Property reassignment: $(MSBuildAllProjects)=";C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjacku6.vcxproj;C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Common.targets;C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjacku6.vcxproj.user;C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Xaml.targets;C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\Common7\IDE\CommonExtensions\Microsoft\NuGet\NuGet.targets" (previous value: ";C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjacku6.vcxproj;C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Common.targets;C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjacku6.vcxproj.user;C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Xaml.targets") at C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\Common7\IDE\CommonExtensions\Microsoft\NuGet\NuGet.targets (45,5)
+       Search paths being used for $(MSBuildExtensionsPath) are C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild;$(MSBuildProgramFiles32)\MSBuild
+       Trying to import C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\$(MSBuildToolsVersion)\Microsoft.Common.targets\ImportAfter\* using extensions path C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild
+       Property reassignment: $(MSBuildAllProjects)=";C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjacku6.vcxproj;C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Common.targets;C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjacku6.vcxproj.user;C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Xaml.targets;C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\Common7\IDE\CommonExtensions\Microsoft\NuGet\NuGet.targets;C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Microsoft.Common.targets\ImportAfter\Microsoft.NET.Build.Extensions.targets" (previous value: ";C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjacku6.vcxproj;C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Common.targets;C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjacku6.vcxproj.user;C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Xaml.targets;C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\Common7\IDE\CommonExtensions\Microsoft\NuGet\NuGet.targets") at C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Microsoft.Common.targets\ImportAfter\Microsoft.NET.Build.Extensions.targets (14,5)
+       Property reassignment: $(MSBuildAllProjects)=";C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjacku6.vcxproj;C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Common.targets;C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjacku6.vcxproj.user;C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Xaml.targets;C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\Common7\IDE\CommonExtensions\Microsoft\NuGet\NuGet.targets;C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Microsoft.Common.targets\ImportAfter\Microsoft.NET.Build.Extensions.targets;C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\Microsoft.NET.Build.Extensions.targets" (previous value: ";C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjacku6.vcxproj;C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Common.targets;C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjacku6.vcxproj.user;C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Xaml.targets;C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\Common7\IDE\CommonExtensions\Microsoft\NuGet\NuGet.targets;C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Microsoft.Common.targets\ImportAfter\Microsoft.NET.Build.Extensions.targets") at C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\Microsoft.NET.Build.Extensions.targets (15,5)
+       Property reassignment: $(MSBuildAllProjects)=";C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjacku6.vcxproj;C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Common.targets;C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjacku6.vcxproj.user;C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Xaml.targets;C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\Common7\IDE\CommonExtensions\Microsoft\NuGet\NuGet.targets;C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Microsoft.Common.targets\ImportAfter\Microsoft.NET.Build.Extensions.targets;C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\Microsoft.NET.Build.Extensions.targets;C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\NuGet\16.0\Microsoft.NuGet.targets" (previous value: ";C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjacku6.vcxproj;C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Common.targets;C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjacku6.vcxproj.user;C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Xaml.targets;C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\Common7\IDE\CommonExtensions\Microsoft\NuGet\NuGet.targets;C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Microsoft.Common.targets\ImportAfter\Microsoft.NET.Build.Extensions.targets;C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\Microsoft.NET.Build.Extensions.targets") at C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\NuGet\16.0\Microsoft.NuGet.targets (67,5)
+       Property reassignment: $(ResolveAssemblyReferencesDependsOn)="
+             ResolveProjectReferences;
+             FindInvalidProjectReferences;
+             GetFrameworkPaths;
+             GetReferenceAssemblyPaths;
+             PrepareForBuild;
+             ResolveSDKReferences;
+             ExpandSDKReferences;
+           ;ResolveNuGetPackageAssets" (previous value: "
+             ResolveProjectReferences;
+             FindInvalidProjectReferences;
+             GetFrameworkPaths;
+             GetReferenceAssemblyPaths;
+             PrepareForBuild;
+             ResolveSDKReferences;
+             ExpandSDKReferences;
+           ") at C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\NuGet\16.0\Microsoft.NuGet.targets (173,5)
+       Property reassignment: $(PrepareResourcesDependsOn)="ResolveNuGetPackageAssets;
+             XamlMarkupCompilePass1;
+             XamlMarkupCompilePass2;
+             
+             PrepareResourceNames;
+             ResGen;
+             CompileLicxFiles
+            
+           " (previous value: "
+             XamlMarkupCompilePass1;
+             XamlMarkupCompilePass2;
+             
+             PrepareResourceNames;
+             ResGen;
+             CompileLicxFiles
+            
+           ") at C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\NuGet\16.0\Microsoft.NuGet.targets (174,5)
+       Property reassignment: $(FakesCommandLineArguments)=" /Properties:";PlatformTarget=x86" /msbuildpath:"C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\msbuild.exe"" (previous value: " /Properties:";PlatformTarget=x86"") at C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VisualStudio\v16.0\Fakes\Microsoft.QualityTools.Testing.Fakes.targets (22,5)
+       Property reassignment: $(ResolveAssemblyReferencesDependsOn)="
+             
+             ResolveProjectReferences;
+             FindInvalidProjectReferences;
+             GetFrameworkPaths;
+             GetReferenceAssemblyPaths;
+             PrepareForBuild;
+             ResolveSDKReferences;
+             ExpandSDKReferences;
+           ;ResolveNuGetPackageAssets;
+             FakesGenerateBeforeBuild;
+           " (previous value: "
+             ResolveProjectReferences;
+             FindInvalidProjectReferences;
+             GetFrameworkPaths;
+             GetReferenceAssemblyPaths;
+             PrepareForBuild;
+             ResolveSDKReferences;
+             ExpandSDKReferences;
+           ;ResolveNuGetPackageAssets") at C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VisualStudio\v16.0\Fakes\Microsoft.QualityTools.Testing.Fakes.targets (37,5)
+       Search paths being used for $(MSBuildExtensionsPath) are C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild;$(MSBuildProgramFiles32)\MSBuild
+       Property reassignment: $(BuildDependsOn)="
+             _PrepareForBuild;
+             
+             ResolveReferences;
+             PrepareForBuild;
+             InitializeBuildStatus;
+             BuildGenerateSources;
+             BuildCompile;
+             BuildLink;
+           ;
+             AfterBuild;
+             FinalizeBuildStatus;
+           " (previous value: "
+             BeforeBuild;
+             CoreBuild;
+             AfterBuild
+           ") at C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.BuildSteps.Targets (88,5)
+       Property reassignment: $(RebuildDependsOn)="
+             _PrepareForRebuild;
+             
+             BeforeRebuild;
+             Clean;
+             Build;
+             AfterRebuild;
+           ;
+           " (previous value: "
+             BeforeRebuild;
+             Clean;
+             Build;
+             AfterRebuild;
+           ") at C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.BuildSteps.Targets (95,5)
+       Property reassignment: $(CleanDependsOn)="
+             _PrepareForClean;
+             
+             BeforeClean;
+             UnmanagedUnregistration;
+             CoreClean;
+             CleanReferencedProjects;
+             CleanPublishFolder;
+             AfterClean
+           ;
+           " (previous value: "
+             BeforeClean;
+             UnmanagedUnregistration;
+             CoreClean;
+             CleanReferencedProjects;
+             CleanPublishFolder;
+             AfterClean
+           ") at C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.BuildSteps.Targets (100,5)
+       Property reassignment: $(BeforeBuildGenerateSourcesTargets)="
+             
+             ;
+             BeforeBuildGenerateSources;
+           ;
+           " (previous value: "
+             ;
+             BeforeBuildGenerateSources;
+           ") at C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (54,5)
+       Property reassignment: $(AfterBuildGenerateSourcesTargets)="
+             
+             ;
+             AfterBuildGenerateSources;
+           ;
+             AfterBuildGenerateSourcesEvent;
+           " (previous value: "
+             ;
+             AfterBuildGenerateSources;
+           ") at C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (65,5)
+       Property reassignment: $(BuildGenerateSourcesAction)="_BuildGenerateSourcesAction" (previous value: "Build") at C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (123,5)
+       Property reassignment: $(BuildCompileAction)="_BuildCompileAction" (previous value: "Build") at C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (124,5)
+       Property reassignment: $(BuildLinkAction)="_BuildLinkAction" (previous value: "Build") at C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (125,5)
+       Property reassignment: $(ResolveReferencesDependsOn)="_PrepareForReferenceResolution;ComputeCrtSDKReference;
+             
+             BeforeResolveReferences;
+             AssignProjectConfiguration;
+             ResolveProjectReferences;
+             FindInvalidProjectReferences;
+             ResolveNativeReferences;
+             ResolveAssemblyReferences;
+             GenerateBindingRedirects;
+             ResolveComReferences;
+             AfterResolveReferences
+           ;
+             ResolveTestReferences
+           " (previous value: "
+             
+             BeforeResolveReferences;
+             AssignProjectConfiguration;
+             ResolveProjectReferences;
+             FindInvalidProjectReferences;
+             ResolveNativeReferences;
+             ResolveAssemblyReferences;
+             GenerateBindingRedirects;
+             ResolveComReferences;
+             AfterResolveReferences
+           ;
+             ResolveTestReferences
+           ") at C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (268,5)
+       Property reassignment: $(ResolveAssemblyReferencesDependsOn)="_PrepareForReferenceResolution;
+             
+             ResolveProjectReferences;
+             FindInvalidProjectReferences;
+             GetFrameworkPaths;
+             GetReferenceAssemblyPaths;
+             PrepareForBuild;
+             ResolveSDKReferences;
+             ExpandSDKReferences;
+           ;ResolveNuGetPackageAssets;
+             FakesGenerateBeforeBuild;
+           " (previous value: "
+             
+             ResolveProjectReferences;
+             FindInvalidProjectReferences;
+             GetFrameworkPaths;
+             GetReferenceAssemblyPaths;
+             PrepareForBuild;
+             ResolveSDKReferences;
+             ExpandSDKReferences;
+           ;ResolveNuGetPackageAssets;
+             FakesGenerateBeforeBuild;
+           ") at C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (269,5)
+       Property reassignment: $(ResolveSDKReferencesDependsOn)="_PrepareForReferenceResolution;ComputeCrtSDKReference;
+             GetInstalledSDKLocations
+           " (previous value: "
+             GetInstalledSDKLocations
+           ") at C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (270,5)
+       Property reassignment: $(ComputeLinkInputsTargets)="
+             
+             ;
+             ComputeRCGeneratedLinkInputs;
+           ;
+             ComputeManifestGeneratedLinkerInputs;
+           " (previous value: "
+             ;
+             ComputeRCGeneratedLinkInputs;
+           ") at C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (866,5)
+       Property reassignment: $(GetTargetPathDependsOn)="_PrepareForReferenceResolution;GetResolvedWinMD;" (previous value: "") at C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (996,5)
+       Property reassignment: $(ComputeCompileInputsTargets)="
+             
+             ;
+             ComputeMIDLGeneratedCompileInputs;
+           ;
+             ComputeCLInputPDBName;
+             ComputeReferenceCLInput;
+             WarnCompileDuplicatedFilename
+           " (previous value: "
+             ;
+             ComputeMIDLGeneratedCompileInputs;
+           ") at C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (1022,5)
+       Property reassignment: $(ComputeLinkInputsTargets)="
+             
+             
+             ;
+             ComputeRCGeneratedLinkInputs;
+           ;
+             ComputeManifestGeneratedLinkerInputs;
+           ;
+             ComputeCustomBuildOutput;
+           " (previous value: "
+             
+             ;
+             ComputeRCGeneratedLinkInputs;
+           ;
+             ComputeManifestGeneratedLinkerInputs;
+           ") at C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (1074,5)
+       Property reassignment: $(ComputeLibInputsTargets)="
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           " (previous value: "
+             ;
+             ComputeRCGeneratedLibInputs;
+           ") at C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (1081,5)
+       Property reassignment: $(ComputeImpLibInputsTargets)="
+             
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeRCGeneratedImpLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           " (previous value: "
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeRCGeneratedImpLibInputs;
+           ") at C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (1088,5)
+       Property reassignment: $(ComputeLinkInputsTargets)="
+             
+             
+             
+             ;
+             ComputeRCGeneratedLinkInputs;
+           ;
+             ComputeManifestGeneratedLinkerInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedLinkInputs;
+           " (previous value: "
+             
+             
+             ;
+             ComputeRCGeneratedLinkInputs;
+           ;
+             ComputeManifestGeneratedLinkerInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ") at C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (1148,5)
+       Property reassignment: $(ComputeLibInputsTargets)="
+             
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedLibInputs;
+           " (previous value: "
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ") at C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (1163,5)
+       Property reassignment: $(ComputeImpLibInputsTargets)="
+             
+             
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeRCGeneratedImpLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedImpLibInputs;
+           " (previous value: "
+             
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeRCGeneratedImpLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ") at C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (1178,5)
+       Property reassignment: $(ComputeLinkInputsTargets)="
+               
+             
+             
+             
+             ;
+             ComputeRCGeneratedLinkInputs;
+           ;
+             ComputeManifestGeneratedLinkerInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedLinkInputs;
+           ;
+               ComputeLinkInputsFromProject;
+             " (previous value: "
+             
+             
+             
+             ;
+             ComputeRCGeneratedLinkInputs;
+           ;
+             ComputeManifestGeneratedLinkerInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedLinkInputs;
+           ") at C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (1209,7)
+       Property reassignment: $(ComputeLibInputsTargets)="
+               
+             
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedLibInputs;
+           ;
+               ComputeLibInputsFromProject;
+             " (previous value: "
+             
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedLibInputs;
+           ") at C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (1227,7)
+       Property reassignment: $(ComputeImpLibInputsTargets)="
+               
+             
+             
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeRCGeneratedImpLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedImpLibInputs;
+           ;
+               ComputeImpLibInputsFromProject;
+             " (previous value: "
+             
+             
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeRCGeneratedImpLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedImpLibInputs;
+           ") at C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (1245,7)
+       Property reassignment: $(ComputeLinkInputsTargets)="
+             
+               
+             
+             
+             
+             ;
+             ComputeRCGeneratedLinkInputs;
+           ;
+             ComputeManifestGeneratedLinkerInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedLinkInputs;
+           ;
+               ComputeLinkInputsFromProject;
+             ;
+             ComputeReferenceLinkInputs;
+           " (previous value: "
+               
+             
+             
+             
+             ;
+             ComputeRCGeneratedLinkInputs;
+           ;
+             ComputeManifestGeneratedLinkerInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedLinkInputs;
+           ;
+               ComputeLinkInputsFromProject;
+             ") at C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (1388,5)
+       Property reassignment: $(ComputeLibInputsTargets)="
+             
+               
+             
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedLibInputs;
+           ;
+               ComputeLibInputsFromProject;
+             ;
+             ComputeReferenceLibInputs;
+           " (previous value: "
+               
+             
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedLibInputs;
+           ;
+               ComputeLibInputsFromProject;
+             ") at C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (1426,5)
+       Property reassignment: $(ComputeLibInputsTargets)="
+             ComputeLibAdditionalOptions;
+             
+             
+               
+             
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedLibInputs;
+           ;
+               ComputeLibInputsFromProject;
+             ;
+             ComputeReferenceLibInputs;
+           
+           " (previous value: "
+             
+               
+             
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedLibInputs;
+           ;
+               ComputeLibInputsFromProject;
+             ;
+             ComputeReferenceLibInputs;
+           ") at C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (1483,5)
+       Property reassignment: $(DocumentationProjectOutputGroupDependsOn)="ResolvedXDCMake;ComputeCLCompileGeneratedXDCFiles" (previous value: "") at C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (1907,5)
+       Property reassignment: $(ContentFilesProjectOutputGroupDependsOn)="PrepareForBuild;AssignTargetPaths;PrepareForBuild;AssignTargetPaths;MakeDirsForFxc" (previous value: "PrepareForBuild;AssignTargetPaths") at C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (1973,5)
+       Property reassignment: $(ComputeCompileInputsTargets)="
+             
+             
+             ;
+             ComputeMIDLGeneratedCompileInputs;
+           ;
+             ComputeCLInputPDBName;
+             ComputeReferenceCLInput;
+             WarnCompileDuplicatedFilename
+           ;
+             FixupCLCompileOptions;
+           " (previous value: "
+             
+             ;
+             ComputeMIDLGeneratedCompileInputs;
+           ;
+             ComputeCLInputPDBName;
+             ComputeReferenceCLInput;
+             WarnCompileDuplicatedFilename
+           ") at C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets (274,5)
+       Property reassignment: $(BuildingProject)="true" (previous value: "false") at C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets (1588,5)
+       Property reassignment: $(ContentFilesProjectOutputGroupDependsOn)="PrepareForBuild;AssignTargetPaths;PrepareForBuild;AssignTargetPaths;MakeDirsForFxc;_CreateCopyFileItems;" (previous value: "PrepareForBuild;AssignTargetPaths;PrepareForBuild;AssignTargetPaths;MakeDirsForFxc") at C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets (2096,5)
+       Property reassignment: $(BeforeBuildCompileTargets)="
+             
+             ;
+           ;
+             _PrepareForClCompile;
+           " (previous value: "
+             ;
+           ") at C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Application Type\Linux\1.0\Linux.WSL.targets (61,5)
+       Property reassignment: $(CleanDependsOn)="
+             
+             _PrepareForClean;
+             
+             BeforeClean;
+             UnmanagedUnregistration;
+             CoreClean;
+             CleanReferencedProjects;
+             CleanPublishFolder;
+             AfterClean
+           ;
+           ;
+             CppClean
+           " (previous value: "
+             _PrepareForClean;
+             
+             BeforeClean;
+             UnmanagedUnregistration;
+             CoreClean;
+             CleanReferencedProjects;
+             CleanPublishFolder;
+             AfterClean
+           ;
+           ") at C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppClean.targets (22,5)
+       Property reassignment: $(CppCleanDependsOn)="
+             BeforeCppClean;
+             ;
+             CoreCppClean;
+             AfterCppClean;
+           ;PGInstrumentedClean" (previous value: "
+             BeforeCppClean;
+             ;
+             CoreCppClean;
+             AfterCppClean;
+           ") at C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppClean.targets (91,5)
+       Property reassignment: $(BuildDependsOn)="SetTelemetryEnvironmentVariables;
+             _PrepareForBuild;
+             
+             ResolveReferences;
+             PrepareForBuild;
+             InitializeBuildStatus;
+             BuildGenerateSources;
+             BuildCompile;
+             BuildLink;
+           ;
+             AfterBuild;
+             FinalizeBuildStatus;
+           " (previous value: "
+             _PrepareForBuild;
+             
+             ResolveReferences;
+             PrepareForBuild;
+             InitializeBuildStatus;
+             BuildGenerateSources;
+             BuildCompile;
+             BuildLink;
+           ;
+             AfterBuild;
+             FinalizeBuildStatus;
+           ") at C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.Cpp.DesignTime.targets (477,5)
+       Property reassignment: $(RebuildDependsOn)="SetTelemetryEnvironmentVariables;
+             _PrepareForRebuild;
+             
+             BeforeRebuild;
+             Clean;
+             Build;
+             AfterRebuild;
+           ;
+           " (previous value: "
+             _PrepareForRebuild;
+             
+             BeforeRebuild;
+             Clean;
+             Build;
+             AfterRebuild;
+           ;
+           ") at C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.Cpp.DesignTime.targets (478,5)
+       Property reassignment: $(MSBuildAllProjects)="C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjacku6.vcxproj;;C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjacku6.vcxproj;C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Common.targets;C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjacku6.vcxproj.user;C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Xaml.targets;C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\Common7\IDE\CommonExtensions\Microsoft\NuGet\NuGet.targets;C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Microsoft.Common.targets\ImportAfter\Microsoft.NET.Build.Extensions.targets;C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\Microsoft.NET.Build.Extensions.targets;C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\NuGet\16.0\Microsoft.NuGet.targets" (previous value: ";C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjacku6.vcxproj;C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Common.targets;C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjacku6.vcxproj.user;C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Xaml.targets;C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\Common7\IDE\CommonExtensions\Microsoft\NuGet\NuGet.targets;C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Microsoft.Common.targets\ImportAfter\Microsoft.NET.Build.Extensions.targets;C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\Microsoft.NET.Build.Extensions.targets;C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\NuGet\16.0\Microsoft.NuGet.targets") at 
+       Overriding target "GenerateTargetFrameworkMonikerAttribute" in project "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" with target "GenerateTargetFrameworkMonikerAttribute" from project "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.BuildSteps.Targets".
+       Overriding target "Build" in project "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" with target "Build" from project "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.BuildSteps.Targets".
+       Overriding target "Rebuild" in project "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" with target "Rebuild" from project "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.BuildSteps.Targets".
+       Overriding target "AfterBuild" in project "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" with target "AfterBuild" from project "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.BuildSteps.Targets".
+       Overriding target "PrepareForBuild" in project "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" with target "PrepareForBuild" from project "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets".
+       Overriding target "GetTargetPath" in project "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" with target "GetTargetPath" from project "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets".
+       Overriding target "ComputeIntermediateSatelliteAssemblies" in project "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" with target "ComputeIntermediateSatelliteAssemblies" from project "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets".
+       Overriding target "ClCompile" in project "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" with target "ClCompile" from project "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets".
+       Overriding target "ResourceCompile" in project "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" with target "ResourceCompile" from project "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets".
+       Overriding target "Lib" in project "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" with target "Lib" from project "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets".
+       Overriding target "Link" in project "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" with target "Link" from project "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets".
+       Overriding target "AllProjectOutputGroups" in project "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" with target "AllProjectOutputGroups" from project "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets".
+       Overriding target "BuiltProjectOutputGroup" in project "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" with target "BuiltProjectOutputGroup" from project "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets".
+       Overriding target "DebugSymbolsProjectOutputGroup" in project "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" with target "DebugSymbolsProjectOutputGroup" from project "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets".
+       Overriding target "DocumentationProjectOutputGroup" in project "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" with target "DocumentationProjectOutputGroup" from project "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets".
+       Overriding target "SourceFilesProjectOutputGroup" in project "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" with target "SourceFilesProjectOutputGroup" from project "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets".
+       Overriding target "ContentFilesProjectOutputGroup" in project "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" with target "ContentFilesProjectOutputGroup" from project "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets".
+       Overriding target "AllProjectOutputGroupsDependencies" in project "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" with target "AllProjectOutputGroupsDependencies" from project "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets".
+       Overriding target "BuiltProjectOutputGroupDependencies" in project "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" with target "BuiltProjectOutputGroupDependencies" from project "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets".
+       Overriding target "DebugSymbolsProjectOutputGroupDependencies" in project "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" with target "DebugSymbolsProjectOutputGroupDependencies" from project "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets".
+       Overriding target "DocumentationProjectOutputGroupDependencies" in project "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" with target "DocumentationProjectOutputGroupDependencies" from project "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets".
+       Overriding target "PreBuildEvent" in project "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" with target "PreBuildEvent" from project "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets".
+       Overriding target "PostBuildEvent" in project "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" with target "PostBuildEvent" from project "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets".
+       Overriding target "ClCompile" in project "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" with target "ClCompile" from project "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets".
+       Overriding target "Link" in project "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" with target "Link" from project "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets".
+       Overriding target "Lib" in project "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" with target "Lib" from project "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets".
+       Overriding target "ImpLib" in project "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" with target "ImpLib" from project "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets".
+       Overriding target "Midl" in project "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" with target "Midl" from project "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets".
+       Overriding target "ResourceCompile" in project "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" with target "ResourceCompile" from project "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets".
+       Overriding target "BeforeResGen" in project "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" with target "BeforeResGen" from project "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets".
+       Overriding target "ResGen" in project "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" with target "ResGen" from project "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets".
+       Overriding target "GenerateSatelliteAssemblies" in project "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" with target "GenerateSatelliteAssemblies" from project "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets".
+       Overriding target "Manifest" in project "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" with target "Manifest" from project "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets".
+       Overriding target "XdcMake" in project "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" with target "XdcMake" from project "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets".
+       Overriding target "BscMake" in project "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" with target "BscMake" from project "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets".
+       Overriding target "ComputeMetaGenInputs" in project "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.MetaGen.targets" with target "ComputeMetaGenInputs" from project "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets".
+       Overriding target "GetNativeManifest" in project "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" with target "GetNativeManifest" from project "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets".
+       Overriding target "CreateFullDebugSymbols" in project "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets" with target "CreateFullDebugSymbols" from project "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Application Type\Linux\1.0\Linux.WSL.targets".
+       Overriding target "_Link" in project "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" with target "_Link" from project "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Application Type\Linux\1.0\Linux.WSL.targets".
+       Overriding target "FixupCLCompileOptions" in project "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets" with target "FixupCLCompileOptions" from project "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Application Type\Linux\1.0\Linux.WSL.targets".
+       Overriding target "ClCompile" in project "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets" with target "ClCompile" from project "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Application Type\Linux\1.0\Linux.WSL.targets".
+       Overriding target "Link" in project "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets" with target "Link" from project "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Application Type\Linux\1.0\Linux.WSL.targets".
+       Overriding target "Lib" in project "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets" with target "Lib" from project "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Application Type\Linux\1.0\Linux.WSL.targets".
+       Overriding target "GetTargetPathWithTargetPlatformMoniker" in project "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" with target "GetTargetPathWithTargetPlatformMoniker" from project "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.Cpp.DesignTime.targets".
+Build started 19-09-2019 16:04:13.
+     1>Project "C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjacku6.vcxproj" on node 2 (Rebuild target(s)).
+     1>Building with tools version "Current".
+       Project file contains ToolsVersion="15.0". This toolset may be unknown or missing, in which case you may be able to resolve this by installing the appropriate version of MSBuild, or the build may have been forced to a particular ToolsVersion for policy reasons. Treating the project as if it had ToolsVersion="Current". For more information, please see http://go.microsoft.com/fwlink/?LinkId=293424.
+       Target "EnableIntermediateOutputPathMismatchWarning" skipped, due to false condition; ('$(RestoreProjectStyle)' == 'PackageReference') was evaluated as ('' == 'PackageReference').
+     1>Target "_CheckForInvalidConfigurationAndPlatform" in file "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" from project "C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjacku6.vcxproj" (target "SetTelemetryEnvironmentVariables" depends on it):
+       Task "Error" skipped, due to false condition; ( '$(_InvalidConfigurationError)' == 'true' ) was evaluated as ( '' == 'true' ).
+       Task "Warning" skipped, due to false condition; ( '$(_InvalidConfigurationWarning)' == 'true' ) was evaluated as ( '' == 'true' ).
+       Using "Message" task from assembly "Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a".
+       Task "Message"
+         Configuration=Release
+       Done executing task "Message".
+       Task "Message"
+         Platform=x86
+       Done executing task "Message".
+       Task "Error" skipped, due to false condition; ('$(OutDir)' != '' and !HasTrailingSlash('$(OutDir)')) was evaluated as ('C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\bin\x86\Release\' != '' and !HasTrailingSlash('C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\bin\x86\Release\')).
+       Task "Error" skipped, due to false condition; ('$(BaseIntermediateOutputPath)' != '' and !HasTrailingSlash('$(BaseIntermediateOutputPath)')) was evaluated as ('obj\' != '' and !HasTrailingSlash('obj\')).
+       Task "Error" skipped, due to false condition; ('$(IntermediateOutputPath)' != '' and !HasTrailingSlash('$(IntermediateOutputPath)')) was evaluated as ('C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\obj\x86\Release\' != '' and !HasTrailingSlash('C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\obj\x86\Release\')).
+       Task "Error" skipped, due to false condition; ( '$(_InitialMSBuildProjectExtensionsPath)' != '' And '$(MSBuildProjectExtensionsPath)' != '$(_InitialMSBuildProjectExtensionsPath)' ) was evaluated as ( 'C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\obj\' != '' And 'C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\obj\' != 'C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\obj\' ).
+       Task "Warning" skipped, due to false condition; ( '$(EnableBaseIntermediateOutputPathMismatchWarning)' == 'true' And '$(_InitialBaseIntermediateOutputPath)' != '$(BaseIntermediateOutputPath)' And '$(BaseIntermediateOutputPath)' != '$(MSBuildProjectExtensionsPath)' ) was evaluated as ( '' == 'true' And 'obj\' != 'obj\' And 'obj\' != 'C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\obj\' ).
+     1>Done building target "_CheckForInvalidConfigurationAndPlatform" in project "labjacku6.vcxproj".
+       Target "_CheckForInvalidConfigurationAndPlatform" skipped. Previously built successfully.
+     1>Target "SetTelemetryEnvironmentVariables" in file "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.Cpp.DesignTime.targets" from project "C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjacku6.vcxproj" (target "Rebuild" depends on it):
+       Using "SetEnv" task from assembly "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.Build.CppTasks.Common.dll".
+       Task "SetEnv"
+         VSTEL_SolutionSessionID={3EE2BF08-AC1E-4A83-9308-BCF7F22621E1}
+       Done executing task "SetEnv".
+       Task "SetEnv"
+         VSTEL_CurrentSolutionBuildID=510287843
+       Done executing task "SetEnv".
+       Task "SetEnv"
+         VSTEL_ProjectID={f352a134-d0f3-4e6c-94c1-038b6c66bf69}
+       Done executing task "SetEnv".
+     1>Done building target "SetTelemetryEnvironmentVariables" in project "labjacku6.vcxproj".
+     1>Target "_PrepareForRebuild" in file "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.BuildSteps.Targets" from project "C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjacku6.vcxproj" (target "Rebuild" depends on it):
+     1>Done building target "_PrepareForRebuild" in project "labjacku6.vcxproj".
+     1>Target "BeforeRebuild" in file "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" from project "C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjacku6.vcxproj" (target "Rebuild" depends on it):
+     1>Done building target "BeforeRebuild" in project "labjacku6.vcxproj".
+     1>Target "_PrepareForClean" in file "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.BuildSteps.Targets" from project "C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjacku6.vcxproj" (target "Clean" depends on it):
+       Using "Delete" task from assembly "Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a".
+       Task "Delete"
+         Deleting file "C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\obj\x86\Release\labjacku6.tlog\labjacku6.lastbuildstate".
+       Done executing task "Delete".
+     1>Done building target "_PrepareForClean" in project "labjacku6.vcxproj".
+     1>Target "BeforeClean" in file "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" from project "C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjacku6.vcxproj" (target "Clean" depends on it):
+     1>Done building target "BeforeClean" in project "labjacku6.vcxproj".
+       Target "UnmanagedUnregistration" skipped, due to false condition; ((('$(_AssemblyTimestampBeforeCompile)' != '$(_AssemblyTimestampAfterCompile)' or '$(RegisterForComInterop)' != 'true' or '$(OutputType)' != 'library') or
+                           ('$(_AssemblyTimestampBeforeCompile)' == '')) and
+                          Exists('@(_UnmanagedRegistrationCache)')) was evaluated as ((('' != '' or '' != 'true' or 'exe' != 'library') or
+                           ('' == '')) and
+                          Exists('obj\labjacku6.vcxproj.UnmanagedRegistration.cache')).
+     1>Target "CoreClean" in file "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" from project "C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjacku6.vcxproj" (target "Clean" depends on it):
+       Task "Delete"
+         File "C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\obj\x86\Release\\TempCA\labjacku6.pdb" doesn't exist. Skipping.
+         File "C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\obj\x86\Release\\TempCA\labjacku6.out" doesn't exist. Skipping.
+       Done executing task "Delete".
+       Using "ReadLinesFromFile" task from assembly "Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a".
+       Task "ReadLinesFromFile"
+       Done executing task "ReadLinesFromFile".
+       Using "FindUnderPath" task from assembly "Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a".
+       Task "FindUnderPath"
+         Comparison path is "C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\bin\x86\Release\".
+       Done executing task "FindUnderPath".
+       Task "FindUnderPath"
+         Comparison path is "C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\obj\x86\Release\".
+       Done executing task "FindUnderPath".
+       Task "Delete"
+       Done executing task "Delete".
+       Using "RemoveDuplicates" task from assembly "Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a".
+       Task "RemoveDuplicates"
+       Done executing task "RemoveDuplicates".
+       Using "MakeDir" task from assembly "Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a".
+       Task "MakeDir"
+       Done executing task "MakeDir".
+       Using "WriteLinesToFile" task from assembly "Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a".
+       Task "WriteLinesToFile"
+       Done executing task "WriteLinesToFile".
+     1>Done building target "CoreClean" in project "labjacku6.vcxproj".
+     1>Target "AssignProjectConfiguration" in file "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" from project "C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjacku6.vcxproj" (target "PrepareProjectReferences" depends on it):
+       Using "AssignProjectConfiguration" task from assembly "Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a".
+       Task "AssignProjectConfiguration"
+       Done executing task "AssignProjectConfiguration".
+     1>Done building target "AssignProjectConfiguration" in project "labjacku6.vcxproj".
+     1>Target "_SplitProjectReferencesByFileExistence" in file "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" from project "C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjacku6.vcxproj" (target "PrepareProjectReferences" depends on it):
+       Task "ResolveNonMSBuildProjectOutput" skipped, due to false condition; ('$(BuildingInsideVisualStudio)'=='true' and '@(ProjectReferenceWithConfiguration)'!='') was evaluated as ('true'=='true' and ''!='').
+     1>Done building target "_SplitProjectReferencesByFileExistence" in project "labjacku6.vcxproj".
+     1>Target "_GetProjectReferenceTargetFrameworkProperties" in file "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" from project "C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjacku6.vcxproj" (target "PrepareProjectReferences" depends on it):
+       Using "MSBuild" task from assembly "Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a".
+       Task "MSBuild"
+       Done executing task "MSBuild".
+       Task "GetReferenceNearestTargetFrameworkTask" skipped, due to false condition; ('@(_ProjectReferenceTargetFrameworkPossibilities->Count())' != '0' and '$(ReferringTargetFrameworkForProjectReferences)' != '') was evaluated as ('0' != '0' and '' != '').
+     1>Done building target "_GetProjectReferenceTargetFrameworkProperties" in project "labjacku6.vcxproj".
+     1>Target "PrepareProjectReferences" in file "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" from project "C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjacku6.vcxproj" (target "CleanReferencedProjects" depends on it):
+     1>Done building target "PrepareProjectReferences" in project "labjacku6.vcxproj".
+     1>Target "CleanReferencedProjects" in file "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" from project "C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjacku6.vcxproj" (target "Clean" depends on it):
+       Task "MSBuild" skipped, due to false condition; ('$(BuildingInsideVisualStudio)' != 'true' and '$(BuildProjectReferences)' == 'true' and '@(_MSBuildProjectReferenceExistent)' != '') was evaluated as ('true' != 'true' and 'true' == 'true' and '' != '').
+     1>Done building target "CleanReferencedProjects" in project "labjacku6.vcxproj".
+     1>Target "CleanPublishFolder" in file "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" from project "C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjacku6.vcxproj" (target "Clean" depends on it):
+       Task "RemoveDir" skipped, due to false condition; ('$(PublishDir)'=='$(OutputPath)app.publish\' and Exists('$(PublishDir)')) was evaluated as ('C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\bin\x86\Release\app.publish\'=='C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\bin\x86\Release\app.publish\' and Exists('C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\bin\x86\Release\app.publish\')).
+     1>Done building target "CleanPublishFolder" in project "labjacku6.vcxproj".
+     1>Target "AfterClean" in file "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" from project "C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjacku6.vcxproj" (target "Clean" depends on it):
+     1>Done building target "AfterClean" in project "labjacku6.vcxproj".
+     1>Target "BeforeCppClean" in file "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppClean.targets" from project "C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjacku6.vcxproj" (target "CppClean" depends on it):
+     1>Done building target "BeforeCppClean" in project "labjacku6.vcxproj".
+     1>Target "CoreCppClean" in file "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppClean.targets" from project "C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjacku6.vcxproj" (target "CppClean" depends on it):
+       Task "MakeDir"
+       Done executing task "MakeDir".
+       Using "CppClean" task from assembly "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.Build.CppTasks.Common.dll".
+       Task "CppClean"
+       Done executing task "CppClean".
+       Task "WriteLinesToFile"
+       Done executing task "WriteLinesToFile".
+     1>Done building target "CoreCppClean" in project "labjacku6.vcxproj".
+     1>Target "AfterCppClean" in file "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppClean.targets" from project "C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjacku6.vcxproj" (target "CppClean" depends on it):
+     1>Done building target "AfterCppClean" in project "labjacku6.vcxproj".
+     1>Target "PGInstrumentedClean" in file "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppClean.targets" from project "C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjacku6.vcxproj" (target "CppClean" depends on it):
+       Task "Delete"
+       Done executing task "Delete".
+     1>Done building target "PGInstrumentedClean" in project "labjacku6.vcxproj".
+     1>Target "CppClean" in file "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppClean.targets" from project "C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjacku6.vcxproj" (target "Clean" depends on it):
+     1>Done building target "CppClean" in project "labjacku6.vcxproj".
+     1>Target "Clean" in file "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" from project "C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjacku6.vcxproj" (target "Rebuild" depends on it):
+     1>Done building target "Clean" in project "labjacku6.vcxproj".
+       Target "SetTelemetryEnvironmentVariables" skipped. Previously built successfully.
+     1>Target "_PrepareForBuild" in file "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.BuildSteps.Targets" from project "C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjacku6.vcxproj" (target "Build" depends on it):
+       Task "CreateItem" skipped, due to false condition; ('%(CustomBuild.IncludeFileToTool)'!='') was evaluated as (''!='').
+     1>Done building target "_PrepareForBuild" in project "labjacku6.vcxproj".
+     1>Target "_PrepareForReferenceResolution" in file "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" from project "C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjacku6.vcxproj" (target "ResolveReferences" depends on it):
+       Task "Message" skipped, due to false condition; ('$(_REFERENCE_DEBUG)'=='true') was evaluated as (''=='true').
+     1>Done building target "_PrepareForReferenceResolution" in project "labjacku6.vcxproj".
+       Target "ComputeCrtSDKReference" skipped, due to false condition; ('@(ClCompile)'!='' and '$(WindowsAppContainer)'=='true' and '$(UseCrtSDKReference)' != 'false') was evaluated as ('main.cpp;u6.c'!='' and 'false'=='true' and '' != 'false').
+     1>Target "BeforeResolveReferences" in file "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" from project "C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjacku6.vcxproj" (target "ResolveReferences" depends on it):
+     1>Done building target "BeforeResolveReferences" in project "labjacku6.vcxproj".
+       Target "AssignProjectConfiguration" skipped. Previously built successfully.
+       Target "PrepareProjectReferences" skipped. Previously built successfully.
+       Target "_RemoveNameMetadataFromProjectReferenceItems" skipped, due to false condition; ('@(ProjectReference)'!='') was evaluated as (''!='').
+     1>Target "ResolveProjectReferences" in file "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" from project "C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjacku6.vcxproj" (target "ResolveReferences" depends on it):
+       Task "MSBuild" skipped, due to false condition; ('%(_MSBuildProjectReferenceExistent.BuildReference)' == 'true' and '@(ProjectReferenceWithConfiguration)' != '' and ('$(BuildingInsideVisualStudio)' == 'true' or '$(BuildProjectReferences)' != 'true') and '$(VisualStudioVersion)' != '10.0' and '@(_MSBuildProjectReferenceExistent)' != '') was evaluated as ('' == 'true' and '' != '' and ('true' == 'true' or 'true' != 'true') and '16.0' != '10.0' and '' != '').
+       Task "MSBuild" skipped, due to false condition; ('%(_MSBuildProjectReferenceExistent.BuildReference)' == 'true' and '@(ProjectReferenceWithConfiguration)' != '' and ('$(BuildingInsideVisualStudio)' == 'true' or '$(BuildProjectReferences)' != 'true') and '$(VisualStudioVersion)' == '10.0' and '@(_MSBuildProjectReferenceExistent)' != '') was evaluated as ('' == 'true' and '' != '' and ('true' == 'true' or 'true' != 'true') and '16.0' == '10.0' and '' != '').
+       Task "MSBuild" skipped, due to false condition; ('%(_MSBuildProjectReferenceExistent.BuildReference)' == 'true' and '@(ProjectReferenceWithConfiguration)' != '' and '$(BuildingInsideVisualStudio)' != 'true' and '$(BuildProjectReferences)' == 'true' and '@(_MSBuildProjectReferenceExistent)' != '') was evaluated as ('' == 'true' and '' != '' and 'true' != 'true' and 'true' == 'true' and '' != '').
+       Task "MSBuild" skipped, due to false condition; ('%(_MSBuildProjectReferenceExistent.BuildReference)' == 'true' and '@(ProjectReferenceWithConfiguration)' != '' and '$(BuildingProject)' == 'true' and '@(_MSBuildProjectReferenceExistent)' != '') was evaluated as ('' == 'true' and '' != '' and 'true' == 'true' and '' != '').
+       Task "Warning" skipped, due to false condition; ('@(ProjectReferenceWithConfiguration)' != '' and '@(_MSBuildProjectReferenceNonexistent)' != '') was evaluated as ('' != '' and '' != '').
+     1>Done building target "ResolveProjectReferences" in project "labjacku6.vcxproj".
+       Target "FindInvalidProjectReferences" skipped, due to false condition; ('$(FindInvalidProjectReferences)' == 'true') was evaluated as ('' == 'true').
+       Target "ResolveNativeReferences" skipped, due to false condition; ('@(NativeReference)'!='') was evaluated as (''!='').
+       Target "_PrepareForReferenceResolution" skipped. Previously built successfully.
+       Target "ResolveProjectReferences" skipped. Previously built successfully.
+       Target "FindInvalidProjectReferences" skipped, due to false condition; ('$(FindInvalidProjectReferences)' == 'true') was evaluated as ('' == 'true').
+     1>Target "GetFrameworkPaths" in file "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" from project "C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjacku6.vcxproj" (target "ResolveAssemblyReferences" depends on it):
+     1>Done building target "GetFrameworkPaths" in project "labjacku6.vcxproj".
+       Target "_PrepareForReferenceResolution" skipped. Previously built successfully.
+       Target "GetFrameworkPaths" skipped. Previously built successfully.
+     1>Target "GetReferenceAssemblyPaths" in file "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" from project "C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjacku6.vcxproj" (target "ResolveAssemblyReferences" depends on it):
+       Task "GetReferenceAssemblyPaths" skipped, due to false condition; ('$(TargetFrameworkMoniker)' != '' and ('$(_TargetFrameworkDirectories)' == '' or '$(_FullFrameworkReferenceAssemblyPaths)' == '')) was evaluated as ('' != '' and ('' == '' or '' == '')).
+     1>Done building target "GetReferenceAssemblyPaths" in project "labjacku6.vcxproj".
+     1>Target "SetBuildDefaultEnvironmentVariables" in file "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.Cpp.Current.targets" from project "C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjacku6.vcxproj" (target "PrepareForBuild" depends on it):
+       Task "SetEnv"
+         PATH=C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\Bin\;C:\Program Files\IVI Foundation\VISA\Win64\Bin\;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\Bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\P4\sw\tools\win32\MiscBuildTools;C:\Program Files\SlickEdit\win;C:\P4\sw\tools;C:\P4\sw\tools\win32\gnumake\mingw32-3.80.0-3\;C:\P4\sw\tools\cygnus\bin;C:\P4\sw\tools\libpng;D:\sw\cmder_mini;C:\Program Files\Java\jdk-11.0.1\bin;C:\Program Files\NVIDIA Corporation\NVIDIA NGX;C:\Program Files\Keysight\IO Libraries Suite\bin;C:\Program Files\IVI Foundation\VISA\Win64\ktvisa;C:\Program Files (x86)\Keysight\IO Libraries Suite\bin;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\ktvisa;C:\Program Files (x86)\IVI Foundation\IVI\bin;C:\Program Files\IVI Foundation\IVI\bin;C:\Program Files (x86)\IVI Foundation\VISA\winnt\agvisa;C:\p4\sw\apps\gpu\drivers\resman\SW Power Lab\PowerProfiling\ACE\Server\gawk-3.1.6-1-bin\bin;C:\Python27amd64;C:\Python27amd64\Scripts;C:\Program Files\PuTTY\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Perforce\;C:\Program Files (x86)\Webex\Webex\Applications;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;D:\Program Files (x86)\IncrediBuild;C:\Users\adaware.NVIDIA.COM\AppData\Local\Microsoft\WindowsApps;C:\Users\adaware.NVIDIA.COM\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\adaware.NVIDIA.COM\AppData\Local\atom\bin;C:\Users\adaware.NVIDIA.COM\AppData\Local\Microsoft\WindowsApps;
+       Done executing task "SetEnv".
+       Task "SetEnv"
+         LIB=C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6;
+       Done executing task "SetEnv".
+       Task "SetEnv"
+         LIBPATH=
+       Done executing task "SetEnv".
+       Task "SetEnv"
+         INCLUDE=C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6;
+       Done executing task "SetEnv".
+     1>Done building target "SetBuildDefaultEnvironmentVariables" in project "labjacku6.vcxproj".
+       Target "SetUserMacroEnvironmentVariables" skipped, due to false condition; ('@(BuildMacro)' != '' and '$(DesignTimeBuild)' != 'true') was evaluated as ('' != '' and '' != 'true').
+       Target "_PrepareForReferenceResolution" skipped. Previously built successfully.
+     1>Target "GetResolvedWinMD" in file "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" from project "C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjacku6.vcxproj" (target "PrepareForBuild" depends on it):
+     1>Done building target "GetResolvedWinMD" in project "labjacku6.vcxproj".
+       Target "GetFrameworkPaths" skipped. Previously built successfully.
+       Target "GetReferenceAssemblyPaths" skipped. Previously built successfully.
+       Target "AssignLinkMetadata" skipped, due to false condition; ( '$(SynthesizeLinkMetadata)' == 'true' ) was evaluated as ( '' == 'true' ).
+     1>Target "SetCABuildNativeEnvironmentVariables" in file "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VisualStudio\v16.0\CodeAnalysis\Microsoft.CodeAnalysis.targets" from project "C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjacku6.vcxproj" (target "PrepareForBuild" depends on it):
+       Task "SetEnv" skipped, due to false condition; ('$(CAExcludePath)'!='') was evaluated as (''!='').
+       Task "SetEnv" skipped, due to false condition; ('$(RunCppAnalysis)'=='true' and '$(VCCodeAnalysisUX)'=='true') was evaluated as ('false'=='true' and 'true'=='true').
+     1>Done building target "SetCABuildNativeEnvironmentVariables" in project "labjacku6.vcxproj".
+     1>Target "PrepareForBuild" in file "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" from project "C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjacku6.vcxproj" (target "ResolveAssemblyReferences" depends on it):
+       Task "VCMessage" skipped, due to false condition; ('$(DesignTimeBuild)' != 'true' and '$(ConfigurationPlatformExists)' != 'true') was evaluated as ('' != 'true' and 'true' != 'true').
+       Task "VCMessage" skipped, due to false condition; ('$(DesignTimeBuild)' != 'true' and '$(_ToolsetFound)' != 'true') was evaluated as ('' != 'true' and 'true' != 'true').
+       Task "MakeDir"
+       Done executing task "MakeDir".
+       Task "VCMessage" skipped, due to false condition; ('$(DesignTimeBuild)'!='true' and '$(WindowsAppContainer)'=='true' and '$(ConfigurationType)'!='Application' and '$(ConfigurationType)'!='DynamicLibrary' and '$(ConfigurationType)'!='StaticLibrary') was evaluated as (''!='true' and 'false'=='true' and 'Application'!='Application' and 'Application'!='DynamicLibrary' and 'Application'!='StaticLibrary').
+       Task "VCMessage" skipped, due to false condition; ('$(DesignTimeBuild)'!='true' and '$(VCToolsInstallDir)'=='' and '$(UseEnv)' != 'true' and ('$(TargetFrameworkVersion)'=='v3.5' or '$(TargetFrameworkVersion)'=='v3.0' or '$(TargetFrameworkVersion)'=='v2.0' )) was evaluated as (''!='true' and 'VCToolsInstallDir_is_not_defined'=='' and '' != 'true' and (''=='v3.5' or ''=='v3.0' or ''=='v2.0' )).
+       Task "VCMessage" skipped, due to false condition; ('$(DesignTimeBuild)'!='true' and '$(VCToolsInstallDir)'=='' and '$(UseEnv)' != 'true' and '$(PlatformToolset)'=='v90') was evaluated as (''!='true' and 'VCToolsInstallDir_is_not_defined'=='' and '' != 'true' and 'WSL_1_0'=='v90').
+       Using "CheckVCToolsetVersion" task from assembly "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.Build.CppTasks.Common.dll".
+       Task "CheckVCToolsetVersion"
+       Done executing task "CheckVCToolsetVersion".
+       Task "VCMessage" skipped, due to false condition; ('$(CheckMFCInstalled)' == 'true' and !Exists($(MFC_KeyFile)) and '$(SpectreLibs)' == '') was evaluated as ('' == 'true' and !Exists() and '' == '').
+       Task "VCMessage" skipped, due to false condition; ('$(CheckMFCInstalled)' == 'true' and !Exists($(MFC_KeyFile)) and '$(SpectreLibs)' != '') was evaluated as ('' == 'true' and !Exists() and '' != '').
+       Task "VCMessage" skipped, due to false condition; ('$(CheckATLInstalled)' == 'true' and !Exists($(ATL_KeyFile)) and '$(SpectreLibs)' == '') was evaluated as ('' == 'true' and !Exists() and '' == '').
+       Task "VCMessage" skipped, due to false condition; ('$(CheckATLInstalled)' == 'true' and !Exists($(ATL_KeyFile)) and '$(SpectreLibs)' != '') was evaluated as ('' == 'true' and !Exists() and '' != '').
+       Task "VCMessage" skipped, due to false condition; ('$(DesignTimeBuild)' != 'true' and
+                                                               '$(CheckMSVCComponents)' != 'false' and
+                                                               '$(SpectreMitigation)' != '' and
+                                                               '$(SpectreMitigation)' != 'false' and
+                                                               (('$(_VC_Target_Library_Platform)' == 'OneCore' and !Exists('$(VC_LibraryPath_VC_x86_OneCore_spectre)')) or
+                                                                ('$(_VC_Target_Library_Platform)' == 'Desktop' and !Exists('$(VC_LibraryPath_VC_x86_Desktop_spectre)')))) was evaluated as ('' != 'true' and
+                                                               '' != 'false' and
+                                                               'false' != '' and
+                                                               'false' != 'false' and
+                                                               (('' == 'OneCore' and !Exists('')) or
+                                                                ('' == 'Desktop' and !Exists('')))).
+       Task "VCMessage" skipped, due to false condition; ('$(DesignTimeBuild)'!='true' and '$(VCToolsInstallDir)'=='' and '$(UseEnv)' != 'true') was evaluated as (''!='true' and 'VCToolsInstallDir_is_not_defined'=='' and '' != 'true').
+       Task "VCMessage" skipped, due to false condition; ('$(DesignTimeBuild)'!='true' and '$(WindowsSDKDir)'=='' and '$(UseEnv)' != 'true') was evaluated as (''!='true' and 'WindowsSdkDir_is_not_defined'=='' and '' != 'true').
+       Task "VCMessage" skipped, due to false condition; ('$(DesignTimeBuild)'!='true' and '$(IntDirTrailingSlashWarning)'=='true') was evaluated as (''!='true' and ''=='true').
+       Task "VCMessage" skipped, due to false condition; ('$(DesignTimeBuild)'!='true' and '$(OutDirTrailingSlashWarning)'=='true') was evaluated as (''!='true' and ''=='true').
+       Task "VCMessage" skipped, due to false condition; ('%(CompatibilityIssues.Identity)' != '' and '$(DesignTimeBuild)'!='true') was evaluated as ('' != '' and ''!='true').
+       Task "VCMessage" skipped, due to false condition; ('$(IgnoreWarnIntDirSharingDetected)' != 'true' and '$(IntDirSharingDetected)' == 'true') was evaluated as ('' != 'true' and '' == 'true').
+       Task "VCMessage" skipped, due to false condition; ('$(DesignTimeBuild)'!='true' and '$(IgnoreWarnIntDirInTempDetected)' != 'true' and ('$(_IntDirFullpath.StartsWith($(Tmp), true, null))' == 'true' or '$(_IntDirFullpath.StartsWith($(Temp), true, null))' == 'true' or '$(_OutDirFullpath.StartsWith($(Tmp), true, null))' == 'true' or '$(_OutDirFullpath.StartsWith($(Temp), true, null))' == 'true')) was evaluated as (''!='true' and '' != 'true' and ('False' == 'true' or 'False' == 'true' or 'False' == 'true' or 'False' == 'true')).
+       Task "MakeDir"
+       Done executing task "MakeDir".
+     1>Done building target "PrepareForBuild" in project "labjacku6.vcxproj".
+       Target "_PrepareForReferenceResolution" skipped. Previously built successfully.
+       Target "ComputeCrtSDKReference" skipped, due to false condition; ('@(ClCompile)'!='' and '$(WindowsAppContainer)'=='true' and '$(UseCrtSDKReference)' != 'false') was evaluated as ('main.cpp;u6.c'!='' and 'false'=='true' and '' != 'false').
+       Target "GetInstalledSDKLocations" skipped, due to false condition; ('@(SDKReference)' != '') was evaluated as ('' != '').
+     1>Target "ResolveSDKReferences" in file "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" from project "C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjacku6.vcxproj" (target "ResolveAssemblyReferences" depends on it):
+       Task "ResolveSDKReference" skipped, due to false condition; ('@(SDKReference)'!='') was evaluated as (''!='').
+     1>Done building target "ResolveSDKReferences" in project "labjacku6.vcxproj".
+       Target "ResolveSDKReferences" skipped. Previously built successfully.
+     1>Target "ExpandSDKReferences" in file "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" from project "C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjacku6.vcxproj" (target "ResolveAssemblyReferences" depends on it):
+       Task "GetSDKReferenceFiles" skipped, due to false condition; ('@(ResolvedSDKReference)'!='') was evaluated as (''!='').
+     1>Done building target "ExpandSDKReferences" in project "labjacku6.vcxproj".
+       Target "ResolveNuGetPackageAssets" skipped, due to false condition; ('$(ResolveNuGetPackages)' == 'true' and exists('$(ProjectLockFile)')) was evaluated as ('true' == 'true' and exists('obj\project.assets.json')).
+       Target "FakesGenerateBeforeBuild" skipped, due to false condition; (@(Fakes) != '' AND $(BuildingProject)) was evaluated as ( != '' AND true).
+     1>Target "ResolveAssemblyReferences" in file "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" from project "C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjacku6.vcxproj" (target "ResolveReferences" depends on it):
+       Task "ResolveAssemblyReference" skipped, due to false condition; ('@(Reference)'!='' or '@(_ResolvedProjectReferencePaths)'!='' or '@(_ExplicitReference)' != '') was evaluated as (''!='' or ''!='' or '' != '').
+     1>Done building target "ResolveAssemblyReferences" in project "labjacku6.vcxproj".
+       Target "GenerateBindingRedirects" skipped, due to false condition; ('$(AutoGenerateBindingRedirects)' == 'true' and '$(GenerateBindingRedirectsOutputType)' == 'true') was evaluated as ('' == 'true' and 'true' == 'true').
+       Target "GenerateBindingRedirectsUpdateAppConfig" skipped, due to false condition; ('$(AutoGenerateBindingRedirects)' == 'true' and '$(GenerateBindingRedirectsOutputType)' == 'true' and Exists('$(_GenerateBindingRedirectsIntermediateAppConfig)')) was evaluated as ('' == 'true' and 'true' == 'true' and Exists('C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\obj\x86\Release\labjacku6.out.config')).
+       Target "ResolveComReferences" skipped, due to false condition; ('@(COMReference)'!='' or '@(COMFileReference)'!='') was evaluated as (''!='' or ''!='').
+     1>Target "AfterResolveReferences" in file "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" from project "C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjacku6.vcxproj" (target "ResolveReferences" depends on it):
+     1>Done building target "AfterResolveReferences" in project "labjacku6.vcxproj".
+       Target "ResolveTestReferences" skipped, due to false condition; ('@(Shadow)'!='') was evaluated as (''!='').
+     1>Target "ResolveReferences" in file "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" from project "C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjacku6.vcxproj" (target "Build" depends on it):
+     1>Done building target "ResolveReferences" in project "labjacku6.vcxproj".
+       Target "PrepareForBuild" skipped. Previously built successfully.
+       Target "PrepareForBuild" skipped. Previously built successfully.
+     1>Target "InitializeBuildStatus" in file "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" from project "C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjacku6.vcxproj" (target "Build" depends on it):
+       Task "ReadLinesFromFile"
+       Done executing task "ReadLinesFromFile".
+       Task "WriteLinesToFile"
+       Done executing task "WriteLinesToFile".
+       Using "Touch" task from assembly "Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a".
+       Task "Touch"
+         Touching "C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\obj\x86\Release\labjacku6.tlog\unsuccessfulbuild".
+       Done executing task "Touch".
+     1>Done building target "InitializeBuildStatus" in project "labjacku6.vcxproj".
+       Target "PrepareProjectReferences" skipped. Previously built successfully.
+     1>Target "BuildGenerateSourcesTraverse" in file "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" from project "C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjacku6.vcxproj" (target "BuildGenerateSources" depends on it):
+       Task "MSBuild" skipped, due to false condition; ('$(BuildPassReferences)' == 'true' and '@(ProjectReferenceWithConfiguration)' != '' and '@(_MSBuildProjectReferenceExistent)' != '' and '%(_MSBuildProjectReferenceExistent.BuildReference)' == 'true') was evaluated as ('' == 'true' and '' != '' and '' != '' and '' == 'true').
+     1>Done building target "BuildGenerateSourcesTraverse" in project "labjacku6.vcxproj".
+       Target "PrepareForBuild" skipped. Previously built successfully.
+       Target "ResolveReferences" skipped. Previously built successfully.
+     1>Target "BeforeBuildGenerateSources" in file "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.BuildSteps.Targets" from project "C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjacku6.vcxproj" (target "_BuildGenerateSourcesAction" depends on it):
+     1>Done building target "BeforeBuildGenerateSources" in project "labjacku6.vcxproj".
+     1>Target "PreBuildEvent" in file "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets" from project "C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjacku6.vcxproj" (target "_BuildGenerateSourcesAction" depends on it):
+       Task "Message" skipped, due to false condition; ('%(PreBuildEvent.Message)' != '' and '%(PreBuildEvent.Command)' != '') was evaluated as ('' != '' and '' != '').
+       Task "Exec" skipped, due to false condition; ('%(PreBuildEvent.Command)' != '') was evaluated as ('' != '').
+     1>Done building target "PreBuildEvent" in project "labjacku6.vcxproj".
+       Target "PrepareForBuild" skipped. Previously built successfully.
+       Target "InitializeBuildStatus" skipped. Previously built successfully.
+       Target "SetBuildDefaultEnvironmentVariables" skipped. Previously built successfully.
+       Target "SetUserMacroEnvironmentVariables" skipped, due to false condition; ('@(BuildMacro)' != '' and '$(DesignTimeBuild)' != 'true') was evaluated as ('' != '' and '' != 'true').
+     1>Target "_SelectedFiles" in file "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" from project "C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjacku6.vcxproj" (target "SelectCustomBuild" depends on it):
+     1>Done building target "_SelectedFiles" in project "labjacku6.vcxproj".
+     1>Target "SelectCustomBuild" in file "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" from project "C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjacku6.vcxproj" (target "CustomBuild" depends on it):
+     1>Done building target "SelectCustomBuild" in project "labjacku6.vcxproj".
+     1>Target "ComputeCustomBuildOutput" in file "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" from project "C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjacku6.vcxproj" (target "CustomBuild" depends on it):
+       Task "CreateItem" skipped, due to false condition; ('%(CustomBuildOutputs.OutputItemType)'!='') was evaluated as (''!='').
+       Task "MakeDir"
+       Done executing task "MakeDir".
+     1>Done building target "ComputeCustomBuildOutput" in project "labjacku6.vcxproj".
+     1>Target "CustomBuild" in file "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets" from project "C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjacku6.vcxproj" (target "_BuildGenerateSourcesAction" depends on it):
+       Using "GetOutOfDateItems" task from assembly "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.Build.CppTasks.Common.dll".
+       Task "GetOutOfDateItems"
+       Done executing task "GetOutOfDateItems".
+       Task "GetOutOfDateItems"
+       Done executing task "GetOutOfDateItems".
+       Task "ParallelCustomBuild" skipped, due to false condition; ('@(_ParallelCustomBuild)' != '') was evaluated as ('' != '').
+       Task "CustomBuild" skipped, due to false condition; ('@(_CustomBuild)' != '') was evaluated as ('' != '').
+     1>Done building target "CustomBuild" in project "labjacku6.vcxproj".
+       Target "FxExport" skipped, due to false condition; ('@(FxCompile)' != '') was evaluated as ('' != '').
+       Target "FxCompile" skipped, due to false condition; ('@(FxCompile)' != '') was evaluated as ('' != '').
+       Target "Xsd" skipped, due to false condition; ('@(Xsd)' != '') was evaluated as ('' != '').
+     1>Target "_Xsd" in file "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" from project "C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjacku6.vcxproj" (target "_BuildGenerateSourcesAction" depends on it):
+     1>Done building target "_Xsd" in project "labjacku6.vcxproj".
+     1>Target "MakeDirsForMidl" in file "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" from project "C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjacku6.vcxproj" (target "_Midl" depends on it):
+       Task "Makedir"
+       Done executing task "Makedir".
+     1>Done building target "MakeDirsForMidl" in project "labjacku6.vcxproj".
+       Target "Midl" skipped, due to false condition; ('@(Midl)' != '') was evaluated as ('' != '').
+       Target "FxExport" skipped, due to false condition; ('@(FxCompile)' != '') was evaluated as ('' != '').
+       Target "FxCompile" skipped, due to false condition; ('@(FxCompile)' != '') was evaluated as ('' != '').
+     1>Target "ComputeMIDLGeneratedCompileInputs" in file "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" from project "C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjacku6.vcxproj" (target "_Midl" depends on it):
+     1>Done building target "ComputeMIDLGeneratedCompileInputs" in project "labjacku6.vcxproj".
+     1>Target "AfterMidl" in file "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" from project "C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjacku6.vcxproj" (target "_Midl" depends on it):
+     1>Done building target "AfterMidl" in project "labjacku6.vcxproj".
+     1>Target "_Midl" in file "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" from project "C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjacku6.vcxproj" (target "_BuildGenerateSourcesAction" depends on it):
+     1>Done building target "_Midl" in project "labjacku6.vcxproj".
+     1>Target "AfterBuildGenerateSources" in file "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.BuildSteps.Targets" from project "C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjacku6.vcxproj" (target "_BuildGenerateSourcesAction" depends on it):
+     1>Done building target "AfterBuildGenerateSources" in project "labjacku6.vcxproj".
+     1>Target "AfterBuildGenerateSourcesEvent" in file "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" from project "C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjacku6.vcxproj" (target "_BuildGenerateSourcesAction" depends on it):
+     1>Done building target "AfterBuildGenerateSourcesEvent" in project "labjacku6.vcxproj".
+     1>Target "_BuildGenerateSourcesAction" in file "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" from project "C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjacku6.vcxproj" (target "BuildGenerateSources" depends on it):
+     1>Done building target "_BuildGenerateSourcesAction" in project "labjacku6.vcxproj".
+     1>Target "BuildGenerateSources" in file "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" from project "C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjacku6.vcxproj" (target "Build" depends on it):
+     1>Done building target "BuildGenerateSources" in project "labjacku6.vcxproj".
+       Target "PrepareProjectReferences" skipped. Previously built successfully.
+     1>Target "BuildCompileTraverse" in file "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" from project "C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjacku6.vcxproj" (target "BuildCompile" depends on it):
+       Task "MSBuild" skipped, due to false condition; ('$(BuildPassReferences)' == 'true' and '@(ProjectReferenceWithConfiguration)' != '' and '@(_MSBuildProjectReferenceExistent)' != ''  and '%(_MSBuildProjectReferenceExistent.BuildReference)' == 'true') was evaluated as ('' == 'true' and '' != '' and '' != ''  and '' == 'true').
+     1>Done building target "BuildCompileTraverse" in project "labjacku6.vcxproj".
+       Target "PrepareForBuild" skipped. Previously built successfully.
+       Target "ResolveReferences" skipped. Previously built successfully.
+     1>Target "_PrepareForClCompile" in file "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Application Type\Linux\1.0\Linux.WSL.targets" from project "C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjacku6.vcxproj" (target "_BuildCompileAction" depends on it):
+     1>Done building target "_PrepareForClCompile" in project "labjacku6.vcxproj".
+     1>Target "BeforeClCompile" in file "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" from project "C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjacku6.vcxproj" (target "_ClCompile" depends on it):
+     1>Done building target "BeforeClCompile" in project "labjacku6.vcxproj".
+       Target "ComputeMIDLGeneratedCompileInputs" skipped. Previously built successfully.
+     1>Target "ComputeCLInputPDBName" in file "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" from project "C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjacku6.vcxproj" (target "_ClCompile" depends on it):
+     1>Done building target "ComputeCLInputPDBName" in project "labjacku6.vcxproj".
+       Target "ResolveReferences" skipped. Previously built successfully.
+     1>Target "ComputeReferenceCLInput" in file "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" from project "C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjacku6.vcxproj" (target "_ClCompile" depends on it):
+       Task "WriteLinesToFile" skipped, due to false condition; (('@(_ReferenceCopyLocalPaths)'!='') and '$(DesignTimeBuild)' != 'true') was evaluated as ((''!='') and '' != 'true').
+       Task "Message" skipped, due to false condition; ('$(_REFERENCE_DEBUG)'=='true') was evaluated as (''=='true').
+     1>Done building target "ComputeReferenceCLInput" in project "labjacku6.vcxproj".
+     1>Target "WarnCompileDuplicatedFilename" in file "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" from project "C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjacku6.vcxproj" (target "_ClCompile" depends on it):
+       Task "VCMessage" skipped, due to false condition; ('%(ClCompile.ExcludedFromBuild)' != 'true' and '%(Filename)%(Extension)' != '@(ClCompile->'%(Filename)%(Extension)')' and '%(ObjectFileName)' == '@(ClCompile->Metadata(ObjectFileName)->Distinct())') was evaluated as ('' != 'true' and 'main.cpp' != 'main.cpp' and 'C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\obj\x86\Release\main.o' == 'C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\obj\x86\Release\main.o').
+       Task "VCMessage" skipped, due to false condition; ('%(ClCompile.ExcludedFromBuild)' != 'true' and '%(Filename)%(Extension)' != '@(ClCompile->'%(Filename)%(Extension)')' and '%(ObjectFileName)' == '@(ClCompile->Metadata(ObjectFileName)->Distinct())') was evaluated as ('' != 'true' and 'u6.c' != 'u6.c' and 'C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\obj\x86\Release\u6.o' == 'C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\obj\x86\Release\u6.o').
+     1>Done building target "WarnCompileDuplicatedFilename" in project "labjacku6.vcxproj".
+     1>Target "FixupCLCompileOptions" in file "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Application Type\Linux\1.0\Linux.WSL.targets" from project "C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjacku6.vcxproj" (target "_ClCompile" depends on it):
+     1>Done building target "FixupCLCompileOptions" in project "labjacku6.vcxproj".
+     1>Target "MakeDirsForCl" in file "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" from project "C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjacku6.vcxproj" (target "_ClCompile" depends on it):
+       Task "MakeDir"
+       Done executing task "MakeDir".
+     1>Done building target "MakeDirsForCl" in project "labjacku6.vcxproj".
+       Target "_SelectedFiles" skipped. Previously built successfully.
+       Target "ComputeMIDLGeneratedCompileInputs" skipped. Previously built successfully.
+       Target "ComputeCLInputPDBName" skipped. Previously built successfully.
+       Target "ComputeReferenceCLInput" skipped. Previously built successfully.
+       Target "WarnCompileDuplicatedFilename" skipped. Previously built successfully.
+       Target "FixupCLCompileOptions" skipped. Previously built successfully.
+       Target "SelectCustomBuild" skipped. Previously built successfully.
+     1>Target "SelectClCompile" in file "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" from project "C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjacku6.vcxproj" (target "_SelectClCompile" depends on it):
+     1>Done building target "SelectClCompile" in project "labjacku6.vcxproj".
+     1>Target "_SelectClCompile" in file "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Application Type\Linux\1.0\Linux.WSL.targets" from project "C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjacku6.vcxproj" (target "ClCompile" depends on it):
+     1>Done building target "_SelectClCompile" in project "labjacku6.vcxproj".
+     1>Target "_WriteWSLTarget" in file "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Application Type\Linux\1.0\Linux.WSL.targets" from project "C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjacku6.vcxproj" (target "_PrepareUpToDateChecks" depends on it):
+       Task "WriteLinesToFile"
+       Done executing task "WriteLinesToFile".
+     1>Done building target "_WriteWSLTarget" in project "labjacku6.vcxproj".
+     1>Target "_PrepareUpToDateChecks" in file "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Application Type\Linux\1.0\Linux.WSL.targets" from project "C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjacku6.vcxproj" (target "ClCompile" depends on it):
+     1>Done building target "_PrepareUpToDateChecks" in project "labjacku6.vcxproj".
+       Target "GenerateTargetFrameworkMonikerAttribute" skipped, due to false condition; ('$(GenerateTargetFrameworkAttribute)' == 'true') was evaluated as ('false' == 'true').
+       Target "ManagedIncrementalBuildPreProcessDependencyGraph" skipped, due to false condition; ('@(ClCompile)' != '' and '$(EnableManagedIncrementalBuild)' == 'True') was evaluated as ('main.cpp;u6.c' != '' and '' == 'True').
+     1>Target "ClCompile" in file "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Application Type\Linux\1.0\Linux.WSL.targets" from project "C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjacku6.vcxproj" (target "_ClCompile" depends on it):
+       Using "MakeClCommandLine" task from assembly "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Application Type\Linux\1.0\Microsoft.Build.Linux.Tasks.dll".
+       Task "MakeClCommandLine"
+       Done executing task "MakeClCommandLine".
+       Task "MakeClCommandLine"
+       Done executing task "MakeClCommandLine".
+       Using "Compile" task from assembly "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Application Type\Linux\1.0\Microsoft.Build.Linux.Tasks.dll".
+       Task "Compile"
+         Starting remote build
+         Compiling sources:
+         Invoking 'g++'
+         g++ -c -x c++ /mnt/c/Users/adaware.NVIDIA.COM/source/repos/labjacku6/main.cpp -I /mnt/c/Users/adaware.NVIDIA.COM/source/repos/labjacku6 -g1 -o "/mnt/c/Users/adaware.NVIDIA.COM/source/repos/labjacku6/obj/x86/Release/main.o" -Wall -Wswitch -W"no-deprecated-declarations" -W"empty-body" -Wconversion -W"return-type" -Wparentheses -W"no-format" -Wuninitialized -W"unreachable-code" -W"unused-function" -W"unused-value" -W"unused-variable" -O3 -fno-strict-aliasing -fomit-frame-pointer -DNDEBUG -fthreadsafe-statics -fexceptions -frtti -std=c++11
+         main.cpp
+         /mnt/c/Users/adaware.NVIDIA.COM/source/repos/labjacku6/main.cpp: In function ‘int main()’:
+         /mnt/c/Users/adaware.NVIDIA.COM/source/repos/labjacku6/main.cpp:34:5: warning: label ‘done’ defined but not used [-Wunused-label]
+     1>C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\main.cpp(34,5): warning : label ‘done’ defined but not used [-Wunused-label]
+              done:
+              ^~~~
+         Done compiling '/mnt/c/Users/adaware.NVIDIA.COM/source/repos/labjacku6/main.cpp'
+         Invoking 'g++'
+         g++ -c -x c /mnt/c/Users/adaware.NVIDIA.COM/source/repos/labjacku6/u6.c -I /mnt/c/Users/adaware.NVIDIA.COM/source/repos/labjacku6 -g1 -o "/mnt/c/Users/adaware.NVIDIA.COM/source/repos/labjacku6/obj/x86/Release/u6.o" -Wall -Wswitch -W"no-deprecated-declarations" -W"empty-body" -Wconversion -W"return-type" -Wparentheses -W"no-pointer-sign" -W"no-format" -Wuninitialized -W"unreachable-code" -W"unused-function" -W"unused-value" -W"unused-variable" -O3 -fno-strict-aliasing -fomit-frame-pointer -DNDEBUG -fexceptions -std=c11
+         u6.c
+         /mnt/c/Users/adaware.NVIDIA.COM/source/repos/labjacku6/u6.c: In function ‘normalChecksum8’:
+         /mnt/c/Users/adaware.NVIDIA.COM/source/repos/labjacku6/u6.c:80:14: warning: conversion to ‘uint16 {aka short unsigned int}’ from ‘int’ may alter its value [-Wconversion]
+     1>C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(80,14): warning : conversion to ‘uint16 {aka short unsigned int}’ from ‘int’ may alter its value [-Wconversion]
+                  a += (uint16)b[i];
+                       ^
+         /mnt/c/Users/adaware.NVIDIA.COM/source/repos/labjacku6/u6.c:83:9: warning: conversion to ‘uint16 {aka short unsigned int}’ from ‘int’ may alter its value [-Wconversion]
+     1>C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(83,9): warning : conversion to ‘uint16 {aka short unsigned int}’ from ‘int’ may alter its value [-Wconversion]
+              a = (a-256*bb)+bb;
+                  ^
+         /mnt/c/Users/adaware.NVIDIA.COM/source/repos/labjacku6/u6.c: In function ‘extendedChecksum16’:
+         /mnt/c/Users/adaware.NVIDIA.COM/source/repos/labjacku6/u6.c:98:12: warning: conversion to ‘uint16 {aka short unsigned int}’ from ‘int’ may alter its value [-Wconversion]
+     1>C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(98,12): warning : conversion to ‘uint16 {aka short unsigned int}’ from ‘int’ may alter its value [-Wconversion]
+              return a;
+                     ^
+         /mnt/c/Users/adaware.NVIDIA.COM/source/repos/labjacku6/u6.c: In function ‘getCalibrationInfo’:
+         /mnt/c/Users/adaware.NVIDIA.COM/source/repos/labjacku6/u6.c:259:15: warning: conversion to ‘int’ from ‘long unsigned int’ may alter its value [-Wconversion]
+     1>C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(259,15): warning : conversion to ‘int’ from ‘long unsigned int’ may alter its value [-Wconversion]
+              sentRec = LJUSB_Write(hDevice, sendBuffer, 26);
+                        ^~~~~~~~~~~
+         /mnt/c/Users/adaware.NVIDIA.COM/source/repos/labjacku6/u6.c:268:15: warning: conversion to ‘int’ from ‘long unsigned int’ may alter its value [-Wconversion]
+     1>C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(268,15): warning : conversion to ‘int’ from ‘long unsigned int’ may alter its value [-Wconversion]
+              sentRec = LJUSB_Read(hDevice, recBuffer, 38);
+                        ^~~~~~~~~~
+         /mnt/c/Users/adaware.NVIDIA.COM/source/repos/labjacku6/u6.c:292:19: warning: conversion to ‘int’ from ‘long unsigned int’ may alter its value [-Wconversion]
+     1>C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(292,19): warning : conversion to ‘int’ from ‘long unsigned int’ may alter its value [-Wconversion]
+                  sentRec = LJUSB_Write(hDevice, sendBuffer, 8);
+                            ^~~~~~~~~~~
+         /mnt/c/Users/adaware.NVIDIA.COM/source/repos/labjacku6/u6.c:301:19: warning: conversion to ‘int’ from ‘long unsigned int’ may alter its value [-Wconversion]
+     1>C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(301,19): warning : conversion to ‘int’ from ‘long unsigned int’ may alter its value [-Wconversion]
+                  sentRec = LJUSB_Read(hDevice, recBuffer, 40);
+                            ^~~~~~~~~~
+         /mnt/c/Users/adaware.NVIDIA.COM/source/repos/labjacku6/u6.c: In function ‘getTdacCalibrationInfo’:
+         /mnt/c/Users/adaware.NVIDIA.COM/source/repos/labjacku6/u6.c:360:17: warning: conversion to ‘uint8 {aka unsigned char}’ from ‘int’ may alter its value [-Wconversion]
+     1>C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(360,17): warning : conversion to ‘uint8 {aka unsigned char}’ from ‘int’ may alter its value [-Wconversion]
+              sdaPinNum = DIOAPinNum+1;  //SDAPinNum : FIO channel connected to pin DIOB
+                          ^~~~~~~~~~
+         /mnt/c/Users/adaware.NVIDIA.COM/source/repos/labjacku6/u6.c:369:11: warning: conversion to ‘int’ from ‘long int’ may alter its value [-Wconversion]
+     1>C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(369,11): warning : conversion to ‘int’ from ‘long int’ may alter its value [-Wconversion]
+              err = I2C(hDevice, options, speedAdjust, sdaPinNum, sclPinNum, address, numByteToSend, numBytesToReceive, bytesCommand, &errorcode, ackArray, bytesResponse);
+                    ^~~
+         /mnt/c/Users/adaware.NVIDIA.COM/source/repos/labjacku6/u6.c: In function ‘getDacBinVoltCalibrated16Bit’:
+         /mnt/c/Users/adaware.NVIDIA.COM/source/repos/labjacku6/u6.c:463:18: warning: conversion to ‘uint32 {aka unsigned int}’ from ‘double’ may alter its value [-Wfloat-conversion]
+     1>C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(463,18): warning : conversion to ‘uint32 {aka unsigned int}’ from ‘double’ may alter its value [-Wfloat-conversion]
+              dBytesVolt = analogVolt*caliInfo->ccConstants[16 + dacNumber*2] + caliInfo->ccConstants[17 + dacNumber*2];
+                           ^~~~~~~~~~
+         /mnt/c/Users/adaware.NVIDIA.COM/source/repos/labjacku6/u6.c: In function ‘getTdacBinVoltCalibrated’:
+         /mnt/c/Users/adaware.NVIDIA.COM/source/repos/labjacku6/u6.c:500:18: warning: conversion to ‘uint32 {aka unsigned int}’ from ‘double’ may alter its value [-Wfloat-conversion]
+     1>C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(500,18): warning : conversion to ‘uint32 {aka unsigned int}’ from ‘double’ may alter its value [-Wfloat-conversion]
+              dBytesVolt = analogVolt*caliInfo->ccConstants[dacNumber*2] + caliInfo->ccConstants[dacNumber*2 + 1];
+                           ^~~~~~~~~~
+         /mnt/c/Users/adaware.NVIDIA.COM/source/repos/labjacku6/u6.c: In function ‘I2C’:
+         /mnt/c/Users/adaware.NVIDIA.COM/source/repos/labjacku6/u6.c:547:45: warning: conversion to ‘long unsigned int’ from ‘int’ may change the sign of the result [-Wsign-conversion]
+     1>C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(547,45): warning : conversion to ‘long unsigned int’ from ‘int’ may change the sign of the result [-Wsign-conversion]
+              sendBuff = (uint8 *)malloc(sizeof(uint8)*sendSize);
+                                                      ^
+         /mnt/c/Users/adaware.NVIDIA.COM/source/repos/labjacku6/u6.c:548:44: warning: conversion to ‘long unsigned int’ from ‘int’ may change the sign of the result [-Wsign-conversion]
+     1>C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(548,44): warning : conversion to ‘long unsigned int’ from ‘int’ may change the sign of the result [-Wsign-conversion]
+              recBuff = (uint8 *)malloc(sizeof(uint8)*recSize);
+                                                     ^
+         /mnt/c/Users/adaware.NVIDIA.COM/source/repos/labjacku6/u6.c:554:19: warning: conversion to ‘uint8 {aka unsigned char}’ from ‘int’ may alter its value [-Wconversion]
+     1>C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(554,19): warning : conversion to ‘uint8 {aka unsigned char}’ from ‘int’ may alter its value [-Wconversion]
+              sendBuff[2] = (sendSize - 6)/2;  //Number of data words = 4 + NumI2CBytesToSend
+                            ^
+         /mnt/c/Users/adaware.NVIDIA.COM/source/repos/labjacku6/u6.c:572:48: warning: conversion to ‘long unsigned int’ from ‘int’ may change the sign of the result [-Wsign-conversion]
+     1>C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(572,48): warning : conversion to ‘long unsigned int’ from ‘int’ may change the sign of the result [-Wsign-conversion]
+              sendChars = LJUSB_Write(hDevice, sendBuff, sendSize);
+                                                         ^~~~~~~~
+         /mnt/c/Users/adaware.NVIDIA.COM/source/repos/labjacku6/u6.c:572:17: warning: conversion to ‘int’ from ‘long unsigned int’ may alter its value [-Wconversion]
+     1>C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(572,17): warning : conversion to ‘int’ from ‘long unsigned int’ may alter its value [-Wconversion]
+              sendChars = LJUSB_Write(hDevice, sendBuff, sendSize);
+                          ^~~~~~~~~~~
+         /mnt/c/Users/adaware.NVIDIA.COM/source/repos/labjacku6/u6.c:584:45: warning: conversion to ‘long unsigned int’ from ‘int’ may change the sign of the result [-Wsign-conversion]
+     1>C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(584,45): warning : conversion to ‘long unsigned int’ from ‘int’ may change the sign of the result [-Wsign-conversion]
+              recChars = LJUSB_Read(hDevice, recBuff, recSize);
+                                                      ^~~~~~~
+         /mnt/c/Users/adaware.NVIDIA.COM/source/repos/labjacku6/u6.c:584:16: warning: conversion to ‘int’ from ‘long unsigned int’ may alter its value [-Wconversion]
+     1>C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(584,16): warning : conversion to ‘int’ from ‘long unsigned int’ may alter its value [-Wconversion]
+              recChars = LJUSB_Read(hDevice, recBuff, recSize);
+                         ^~~~~~~~~~
+         /mnt/c/Users/adaware.NVIDIA.COM/source/repos/labjacku6/u6.c:641:21: warning: conversion to ‘uint32 {aka unsigned int}’ from ‘int’ may change the sign of the result [-Wsign-conversion]
+     1>C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(641,21): warning : conversion to ‘uint32 {aka unsigned int}’ from ‘int’ may change the sign of the result [-Wsign-conversion]
+              ackArrayTotal = AckArray[0] + AckArray[1]*256 + AckArray[2]*65536 + AckArray[3]*16777216;
+                              ^~~~~~~~
+         /mnt/c/Users/adaware.NVIDIA.COM/source/repos/labjacku6/u6.c:642:24: warning: conversion to ‘uint32 {aka unsigned int}’ from ‘double’ may alter its value [-Wfloat-conversion]
+     1>C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(642,24): warning : conversion to ‘uint32 {aka unsigned int}’ from ‘double’ may alter its value [-Wfloat-conversion]
+              expectedAckArray = pow(2.0,  NumI2CBytesToSend+1)-1;
+                                 ^~~
+         /mnt/c/Users/adaware.NVIDIA.COM/source/repos/labjacku6/u6.c: In function ‘eAIN’:
+         /mnt/c/Users/adaware.NVIDIA.COM/source/repos/labjacku6/u6.c:724:23: warning: conversion to ‘uint8 {aka unsigned char}’ from ‘int’ may alter its value [-Wconversion]
+     1>C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(724,23): warning : conversion to ‘uint8 {aka unsigned char}’ from ‘int’ may alter its value [-Wconversion]
+              sendDataBuff[2] = (uint8)Resolution + gain*16; //Res Index (0-3), Gain Index (4-7)
+                                ^
+         /mnt/c/Users/adaware.NVIDIA.COM/source/repos/labjacku6/u6.c:725:23: warning: conversion to ‘uint8 {aka unsigned char}’ from ‘int’ may alter its value [-Wconversion]
+     1>C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(725,23): warning : conversion to ‘uint8 {aka unsigned char}’ from ‘int’ may alter its value [-Wconversion]
+              sendDataBuff[3] = (uint8)Settling + diff*128; //Settling factor (0-2), Differential (7)
+                                ^
+         /mnt/c/Users/adaware.NVIDIA.COM/source/repos/labjacku6/u6.c:743:53: warning: conversion to ‘int’ from ‘long int’ may alter its value [-Wconversion]
+     1>C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(743,53): warning : conversion to ‘int’ from ‘long int’ may alter its value [-Wconversion]
+                      if( getTempKCalibrated(CalibrationInfo, Resolution, gain, 1, bytesV, Voltage) < 0 )
+                                                              ^~~~~~~~~~
+         /mnt/c/Users/adaware.NVIDIA.COM/source/repos/labjacku6/u6.c:749:55: warning: conversion to ‘int’ from ‘long int’ may alter its value [-Wconversion]
+     1>C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(749,55): warning : conversion to ‘int’ from ‘long int’ may alter its value [-Wconversion]
+                      if( getAinVoltCalibrated(CalibrationInfo, Resolution, gain, 1, bytesV, Voltage) < 0 )
+                                                                ^~~~~~~~~~
+         /mnt/c/Users/adaware.NVIDIA.COM/source/repos/labjacku6/u6.c: In function ‘eDAC’:
+         /mnt/c/Users/adaware.NVIDIA.COM/source/repos/labjacku6/u6.c:779:23: warning: conversion to ‘uint8 {aka unsigned char}’ from ‘long int’ may alter its value [-Wconversion]
+     1>C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(779,23): warning : conversion to ‘uint8 {aka unsigned char}’ from ‘long int’ may alter its value [-Wconversion]
+              sendDataBuff[0] = 38 + Channel;  //IOType is DAC0/1 (16 bit)
+                                ^~
+         /mnt/c/Users/adaware.NVIDIA.COM/source/repos/labjacku6/u6.c: In function ‘eDI’:
+         /mnt/c/Users/adaware.NVIDIA.COM/source/repos/labjacku6/u6.c:810:23: warning: conversion to ‘uint8 {aka unsigned char}’ from ‘long int’ may alter its value [-Wconversion]
+     1>C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(810,23): warning : conversion to ‘uint8 {aka unsigned char}’ from ‘long int’ may alter its value [-Wconversion]
+              sendDataBuff[1] = Channel;  //IONumber(bits 0-4) + Direction (bit 7)
+                                ^~~~~~~
+         /mnt/c/Users/adaware.NVIDIA.COM/source/repos/labjacku6/u6.c:813:23: warning: conversion to ‘uint8 {aka unsigned char}’ from ‘long int’ may alter its value [-Wconversion]
+     1>C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(813,23): warning : conversion to ‘uint8 {aka unsigned char}’ from ‘long int’ may alter its value [-Wconversion]
+              sendDataBuff[3] = Channel;  //IONumber
+                                ^~~~~~~
+         /mnt/c/Users/adaware.NVIDIA.COM/source/repos/labjacku6/u6.c: In function ‘eDO’:
+         /mnt/c/Users/adaware.NVIDIA.COM/source/repos/labjacku6/u6.c:838:23: warning: conversion to ‘uint8 {aka unsigned char}’ from ‘long int’ may alter its value [-Wconversion]
+     1>C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(838,23): warning : conversion to ‘uint8 {aka unsigned char}’ from ‘long int’ may alter its value [-Wconversion]
+              sendDataBuff[1] = Channel + 128;  //IONumber(bits 0-4) + Direction (bit 7)
+                                ^~~~~~~
+         /mnt/c/Users/adaware.NVIDIA.COM/source/repos/labjacku6/u6.c:841:23: warning: conversion to ‘uint8 {aka unsigned char}’ from ‘long int’ may alter its value [-Wconversion]
+     1>C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(841,23): warning : conversion to ‘uint8 {aka unsigned char}’ from ‘long int’ may alter its value [-Wconversion]
+              sendDataBuff[3] = Channel + 128*((State > 0) ? 1 : 0);  //IONumber(bits 0-4) + State (bit 7)
+                                ^~~~~~~
+         /mnt/c/Users/adaware.NVIDIA.COM/source/repos/labjacku6/u6.c: In function ‘eTCConfig’:
+         /mnt/c/Users/adaware.NVIDIA.COM/source/repos/labjacku6/u6.c:890:25: warning: conversion to ‘uint8 {aka unsigned char}’ from ‘double’ may alter its value [-Wfloat-conversion]
+     1>C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(890,25): warning : conversion to ‘uint8 {aka unsigned char}’ from ‘double’ may alter its value [-Wfloat-conversion]
+                      counters += pow(2, i);
+                                  ^~~
+         /mnt/c/Users/adaware.NVIDIA.COM/source/repos/labjacku6/u6.c:894:56: warning: conversion to ‘uint8 {aka unsigned char}’ from ‘long int’ may alter its value [-Wconversion]
+     1>C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(894,56): warning : conversion to ‘uint8 {aka unsigned char}’ from ‘long int’ may alter its value [-Wconversion]
+              error = ehConfigIO(Handle, 1, numTimers, counters, TCPinOffset, &cNumTimers, &cCounters, &cPinOffset);
+                                                                 ^~~~~~~~~~~
+         /mnt/c/Users/adaware.NVIDIA.COM/source/repos/labjacku6/u6.c:906:33: warning: conversion to ‘uint8 {aka unsigned char}’ from ‘int’ may alter its value [-Wconversion]
+     1>C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(906,33): warning : conversion to ‘uint8 {aka unsigned char}’ from ‘int’ may alter its value [-Wconversion]
+                      sendDataBuff[i*4] = 43 + i*2;                                         //TimerConfig
+                                          ^~
+         /mnt/c/Users/adaware.NVIDIA.COM/source/repos/labjacku6/u6.c: In function ‘eTCValues’:
+         /mnt/c/Users/adaware.NVIDIA.COM/source/repos/labjacku6/u6.c:942:46: warning: conversion to ‘uint8 {aka unsigned char}’ from ‘int’ may alter its value [-Wconversion]
+     1>C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(942,46): warning : conversion to ‘uint8 {aka unsigned char}’ from ‘int’ may alter its value [-Wconversion]
+                      sendDataBuff[sendDataBuffSize] = 42 + i*2;                                          //Timer
+                                                       ^~
+         /mnt/c/Users/adaware.NVIDIA.COM/source/repos/labjacku6/u6.c:956:46: warning: conversion to ‘uint8 {aka unsigned char}’ from ‘int’ may alter its value [-Wconversion]
+     1>C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(956,46): warning : conversion to ‘uint8 {aka unsigned char}’ from ‘int’ may alter its value [-Wconversion]
+                      sendDataBuff[sendDataBuffSize] = 54 + i;                                 //Counter
+                                                       ^~
+         /mnt/c/Users/adaware.NVIDIA.COM/source/repos/labjacku6/u6.c: In function ‘ehConfigIO’:
+         /mnt/c/Users/adaware.NVIDIA.COM/source/repos/labjacku6/u6.c:1018:22: warning: conversion to ‘int’ from ‘long unsigned int’ may alter its value [-Wconversion]
+     1>C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(1018,22): warning : conversion to ‘int’ from ‘long unsigned int’ may alter its value [-Wconversion]
+              if( (sendChars = LJUSB_Write(hDevice, sendBuff, 16)) < 16 )
+                               ^~~~~~~~~~~
+         /mnt/c/Users/adaware.NVIDIA.COM/source/repos/labjacku6/u6.c:1028:21: warning: conversion to ‘int’ from ‘long unsigned int’ may alter its value [-Wconversion]
+     1>C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(1028,21): warning : conversion to ‘int’ from ‘long unsigned int’ may alter its value [-Wconversion]
+              if( (recChars = LJUSB_Read(hDevice, recBuff, 16)) < 16 )
+                              ^~~~~~~~~~
+         /mnt/c/Users/adaware.NVIDIA.COM/source/repos/labjacku6/u6.c: In function ‘ehConfigTimerClock’:
+         /mnt/c/Users/adaware.NVIDIA.COM/source/repos/labjacku6/u6.c:1097:22: warning: conversion to ‘int’ from ‘long unsigned int’ may alter its value [-Wconversion]
+     1>C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(1097,22): warning : conversion to ‘int’ from ‘long unsigned int’ may alter its value [-Wconversion]
+              if( (sendChars = LJUSB_Write(hDevice, sendBuff, 10)) < 10 )
+                               ^~~~~~~~~~~
+         /mnt/c/Users/adaware.NVIDIA.COM/source/repos/labjacku6/u6.c:1107:21: warning: conversion to ‘int’ from ‘long unsigned int’ may alter its value [-Wconversion]
+     1>C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(1107,21): warning : conversion to ‘int’ from ‘long unsigned int’ may alter its value [-Wconversion]
+              if( (recChars = LJUSB_Read(hDevice, recBuff, 10)) < 10 )
+                              ^~~~~~~~~~
+         /mnt/c/Users/adaware.NVIDIA.COM/source/repos/labjacku6/u6.c: In function ‘ehFeedback’:
+         /mnt/c/Users/adaware.NVIDIA.COM/source/repos/labjacku6/u6.c:1166:24: warning: conversion to ‘int’ from ‘long int’ may alter its value [-Wconversion]
+     1>C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(1166,24): warning : conversion to ‘int’ from ‘long int’ may alter its value [-Wconversion]
+              if( ((sendDWSize = inIOTypesDataSize + 1)%2) != 0 )
+                                 ^~~~~~~~~~~~~~~~~
+         /mnt/c/Users/adaware.NVIDIA.COM/source/repos/labjacku6/u6.c:1168:23: warning: conversion to ‘int’ from ‘long int’ may alter its value [-Wconversion]
+     1>C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(1168,23): warning : conversion to ‘int’ from ‘long int’ may alter its value [-Wconversion]
+              if( ((recDWSize = outDataSize + 3)%2) != 0 )
+                                ^~~~~~~~~~~
+         /mnt/c/Users/adaware.NVIDIA.COM/source/repos/labjacku6/u6.c:1171:45: warning: conversion to ‘long unsigned int’ from ‘int’ may change the sign of the result [-Wsign-conversion]
+     1>C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(1171,45): warning : conversion to ‘long unsigned int’ from ‘int’ may change the sign of the result [-Wsign-conversion]
+              sendBuff = (uint8 *)malloc(sizeof(uint8)*(commandBytes + sendDWSize));
+                                                      ^
+         /mnt/c/Users/adaware.NVIDIA.COM/source/repos/labjacku6/u6.c:1172:44: warning: conversion to ‘long unsigned int’ from ‘int’ may change the sign of the result [-Wsign-conversion]
+     1>C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(1172,44): warning : conversion to ‘long unsigned int’ from ‘int’ may change the sign of the result [-Wsign-conversion]
+              recBuff = (uint8 *)malloc(sizeof(uint8)*(commandBytes + recDWSize));
+                                                     ^
+         /mnt/c/Users/adaware.NVIDIA.COM/source/repos/labjacku6/u6.c:1184:19: warning: conversion to ‘uint8 {aka unsigned char}’ from ‘int’ may alter its value [-Wconversion]
+     1>C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(1184,19): warning : conversion to ‘uint8 {aka unsigned char}’ from ‘int’ may alter its value [-Wconversion]
+              sendBuff[2] = sendDWSize/2;   //Number of data words (.5 word for echo, 1.5
+                            ^~~~~~~~~~
+         /mnt/c/Users/adaware.NVIDIA.COM/source/repos/labjacku6/u6.c:1196:53: warning: conversion to ‘long unsigned int’ from ‘int’ may change the sign of the result [-Wsign-conversion]
+     1>C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(1196,53): warning : conversion to ‘long unsigned int’ from ‘int’ may change the sign of the result [-Wsign-conversion]
+              if( (sendChars = LJUSB_Write(hDevice, sendBuff, (sendDWSize+commandBytes))) < sendDWSize+commandBytes )
+                                                              ^
+         /mnt/c/Users/adaware.NVIDIA.COM/source/repos/labjacku6/u6.c:1196:22: warning: conversion to ‘int’ from ‘long unsigned int’ may alter its value [-Wconversion]
+     1>C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(1196,22): warning : conversion to ‘int’ from ‘long unsigned int’ may alter its value [-Wconversion]
+              if( (sendChars = LJUSB_Write(hDevice, sendBuff, (sendDWSize+commandBytes))) < sendDWSize+commandBytes )
+                               ^~~~~~~~~~~
+         /mnt/c/Users/adaware.NVIDIA.COM/source/repos/labjacku6/u6.c:1207:50: warning: conversion to ‘long unsigned int’ from ‘int’ may change the sign of the result [-Wsign-conversion]
+     1>C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(1207,50): warning : conversion to ‘long unsigned int’ from ‘int’ may change the sign of the result [-Wsign-conversion]
+              if( (recChars = LJUSB_Read(hDevice, recBuff, (commandBytes+recDWSize))) < commandBytes+recDWSize )
+                                                           ^
+         /mnt/c/Users/adaware.NVIDIA.COM/source/repos/labjacku6/u6.c:1207:21: warning: conversion to ‘int’ from ‘long unsigned int’ may alter its value [-Wconversion]
+     1>C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(1207,21): warning : conversion to ‘int’ from ‘long unsigned int’ may alter its value [-Wconversion]
+              if( (recChars = LJUSB_Read(hDevice, recBuff, (commandBytes+recDWSize))) < commandBytes+recDWSize )
+                              ^~~~~~~~~~
+         /mnt/c/Users/adaware.NVIDIA.COM/source/repos/labjacku6/u6.c: In function ‘eDI’:
+         /mnt/c/Users/adaware.NVIDIA.COM/source/repos/labjacku6/u6.c:820:25: warning: ‘recDataBuff’ may be used uninitialized in this function [-Wmaybe-uninitialized]
+     1>C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(820,25): warning : ‘recDataBuff’ may be used uninitialized in this function [-Wmaybe-uninitialized]
+              *State = recDataBuff[0];
+                       ~~~~~~~~~~~^~~
+         Done compiling '/mnt/c/Users/adaware.NVIDIA.COM/source/repos/labjacku6/u6.c'
+       Done executing task "Compile".
+       Task "WriteLinesToFile"
+       Done executing task "WriteLinesToFile".
+       Task "WriteLinesToFile"
+       Done executing task "WriteLinesToFile".
+     1>Done building target "ClCompile" in project "labjacku6.vcxproj".
+       Target "RunSelectedFileNativeCodeAnalysis" skipped, due to false condition; ('$(RunCppAnalysis)'=='true' and '$(SelectedFiles)'!='') was evaluated as ('false'=='true' and ''!='').
+       Target "ManagedIncrementalBuildPostProcessDependencyGraph" skipped, due to false condition; ('@(ClCompile)' != '' and '$(EnableManagedIncrementalBuild)' == 'True') was evaluated as ('main.cpp;u6.c' != '' and '' == 'True').
+     1>Target "AfterClCompile" in file "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" from project "C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjacku6.vcxproj" (target "_ClCompile" depends on it):
+     1>Done building target "AfterClCompile" in project "labjacku6.vcxproj".
+     1>Target "_ClCompile" in file "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" from project "C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjacku6.vcxproj" (target "_BuildCompileAction" depends on it):
+     1>Done building target "_ClCompile" in project "labjacku6.vcxproj".
+       Target "_ResGen" skipped, due to false condition; ('@(EmbeddedResource)'!='') was evaluated as (''!='').
+     1>Target "BeforeResourceCompile" in file "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" from project "C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjacku6.vcxproj" (target "_ResourceCompile" depends on it):
+     1>Done building target "BeforeResourceCompile" in project "labjacku6.vcxproj".
+     1>Target "MakeDirsForResourceCompile" in file "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" from project "C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjacku6.vcxproj" (target "_ResourceCompile" depends on it):
+       Task "MakeDir"
+       Done executing task "MakeDir".
+     1>Done building target "MakeDirsForResourceCompile" in project "labjacku6.vcxproj".
+       Target "ResourceCompile" skipped, due to false condition; ('@(ResourceCompile)' != '') was evaluated as ('' != '').
+     1>Target "AfterResourceCompile" in file "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" from project "C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjacku6.vcxproj" (target "_ResourceCompile" depends on it):
+     1>Done building target "AfterResourceCompile" in project "labjacku6.vcxproj".
+     1>Target "_ResourceCompile" in file "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" from project "C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjacku6.vcxproj" (target "_BuildCompileAction" depends on it):
+     1>Done building target "_ResourceCompile" in project "labjacku6.vcxproj".
+       Target "_ImpLib" skipped, due to false condition; ('$(ImpLibCompiled)' == 'true') was evaluated as ('' == 'true').
+       Target "_Lib" skipped, due to false condition; ('$(LibCompiled)' == 'true') was evaluated as ('' == 'true').
+     1>Target "AfterBuildCompileEvent" in file "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" from project "C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjacku6.vcxproj" (target "_BuildCompileAction" depends on it):
+     1>Done building target "AfterBuildCompileEvent" in project "labjacku6.vcxproj".
+     1>Target "_BuildCompileAction" in file "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" from project "C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjacku6.vcxproj" (target "BuildCompile" depends on it):
+     1>Done building target "_BuildCompileAction" in project "labjacku6.vcxproj".
+     1>Target "BuildCompile" in file "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" from project "C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjacku6.vcxproj" (target "Build" depends on it):
+     1>Done building target "BuildCompile" in project "labjacku6.vcxproj".
+       Target "PrepareProjectReferences" skipped. Previously built successfully.
+     1>Target "BuildLinkTraverse" in file "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" from project "C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjacku6.vcxproj" (target "BuildLink" depends on it):
+       Task "MSBuild" skipped, due to false condition; ('$(BuildPassReferences)' == 'true' and '@(ProjectReferenceWithConfiguration)' != '' and '@(_MSBuildProjectReferenceExistent)' != ''  and '%(_MSBuildProjectReferenceExistent.BuildReference)' == 'true') was evaluated as ('' == 'true' and '' != '' and '' != ''  and '' == 'true').
+     1>Done building target "BuildLinkTraverse" in project "labjacku6.vcxproj".
+       Target "PrepareForBuild" skipped. Previously built successfully.
+       Target "ResolveReferences" skipped. Previously built successfully.
+     1>Target "ComputeLegacyManifestEmbedding" in file "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" from project "C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjacku6.vcxproj" (target "_BuildLinkAction" depends on it):
+       Task "VCMessage" skipped, due to false condition; ('$(RevertManifestEmbedding)' == 'true' and '$(_LegacyManifestEmbeddingDebug)' == 'true') was evaluated as ('true' == 'true' and '' == 'true').
+     1>Done building target "ComputeLegacyManifestEmbedding" in project "labjacku6.vcxproj".
+     1>Target "BeforeLink" in file "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" from project "C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjacku6.vcxproj" (target "_Link" depends on it):
+     1>Done building target "BeforeLink" in project "labjacku6.vcxproj".
+     1>Target "ComputeRCOutputs" in file "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" from project "C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjacku6.vcxproj" (target "ComputeRCGeneratedLinkInputs" depends on it):
+     1>Done building target "ComputeRCOutputs" in project "labjacku6.vcxproj".
+     1>Target "ComputeRCGeneratedLinkInputs" in file "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" from project "C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjacku6.vcxproj" (target "_Link" depends on it):
+     1>Done building target "ComputeRCGeneratedLinkInputs" in project "labjacku6.vcxproj".
+     1>Target "ComputeManifestGeneratedLinkerInputs" in file "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" from project "C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjacku6.vcxproj" (target "_Link" depends on it):
+     1>Done building target "ComputeManifestGeneratedLinkerInputs" in project "labjacku6.vcxproj".
+       Target "ComputeCustomBuildOutput" skipped. Previously built successfully.
+       Target "ComputeMIDLGeneratedCompileInputs" skipped. Previously built successfully.
+       Target "ComputeCLInputPDBName" skipped. Previously built successfully.
+       Target "ComputeReferenceCLInput" skipped. Previously built successfully.
+       Target "WarnCompileDuplicatedFilename" skipped. Previously built successfully.
+       Target "FixupCLCompileOptions" skipped. Previously built successfully.
+     1>Target "ComputeCLOutputs" in file "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" from project "C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjacku6.vcxproj" (target "ComputeCLGeneratedLinkInputs" depends on it):
+     1>Done building target "ComputeCLOutputs" in project "labjacku6.vcxproj".
+     1>Target "ComputeCLGeneratedLinkInputs" in file "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" from project "C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjacku6.vcxproj" (target "_Link" depends on it):
+     1>Done building target "ComputeCLGeneratedLinkInputs" in project "labjacku6.vcxproj".
+     1>Target "ComputeLinkInputsFromProject" in file "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" from project "C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjacku6.vcxproj" (target "_Link" depends on it):
+     1>Done building target "ComputeLinkInputsFromProject" in project "labjacku6.vcxproj".
+       Target "ComputeReferenceLinkInputs" skipped, due to false condition; (@(ProjectReference) != '') was evaluated as ( != '').
+     1>Target "ComputeManifestInputsTargets" in file "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" from project "C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjacku6.vcxproj" (target "_Link" depends on it):
+     1>Done building target "ComputeManifestInputsTargets" in project "labjacku6.vcxproj".
+       Target "ManifestResourceCompile" skipped, due to false condition; ('$(EmbedManifestBy)' == 'LINK' and '@(Manifest)' != '') was evaluated as ('' == 'LINK' and '' != '').
+     1>Target "AssignTargetPaths" in file "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" from project "C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjacku6.vcxproj" (target "PrepareResourceNames" depends on it):
+       Using "AssignTargetPath" task from assembly "Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a".
+       Task "AssignTargetPath"
+       Done executing task "AssignTargetPath".
+       Task "AssignTargetPath"
+       Done executing task "AssignTargetPath".
+       Task "AssignTargetPath"
+       Done executing task "AssignTargetPath".
+       Task "AssignTargetPath"
+       Done executing task "AssignTargetPath".
+       Task "AssignTargetPath" skipped, due to false condition; ('@(_DeploymentBaseManifestWithTargetPath)'=='' and '%(None.Extension)'=='.manifest') was evaluated as (''=='' and '.0'=='.manifest').
+     1>Done building target "AssignTargetPaths" in project "labjacku6.vcxproj".
+       Target "AssignTargetPaths" skipped. Previously built successfully.
+     1>Target "SplitResourcesByCulture" in file "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" from project "C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjacku6.vcxproj" (target "PrepareResourceNames" depends on it):
+       Task "Warning" skipped, due to false condition; ('@(ResxWithNoCulture)'!='') was evaluated as (''!='').
+       Task "Warning" skipped, due to false condition; ('@(ResxWithCulture)'!='') was evaluated as (''!='').
+       Task "Warning" skipped, due to false condition; ('@(NonResxWithCulture)'!='') was evaluated as (''!='').
+       Task "Warning" skipped, due to false condition; ('@(NonResxWithNoCulture)'!='') was evaluated as (''!='').
+       Using "AssignCulture" task from assembly "Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a".
+       Task "AssignCulture"
+       Done executing task "AssignCulture".
+     1>Done building target "SplitResourcesByCulture" in project "labjacku6.vcxproj".
+       Target "CreateManifestResourceNames" skipped, due to false condition; ('@(EmbeddedResource)' != '') was evaluated as ('' != '').
+     1>Target "CreateCustomManifestResourceNames" in file "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" from project "C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjacku6.vcxproj" (target "PrepareResourceNames" depends on it):
+     1>Done building target "CreateCustomManifestResourceNames" in project "labjacku6.vcxproj".
+     1>Target "PrepareResourceNames" in file "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" from project "C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjacku6.vcxproj" (target "_Link" depends on it):
+     1>Done building target "PrepareResourceNames" in project "labjacku6.vcxproj".
+     1>Target "MakeDirsForLink" in file "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" from project "C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjacku6.vcxproj" (target "_Link" depends on it):
+       Task "MakeDir"
+       Done executing task "MakeDir".
+     1>Done building target "MakeDirsForLink" in project "labjacku6.vcxproj".
+     1>Target "DoLinkOutputFilesMatch" in file "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" from project "C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjacku6.vcxproj" (target "_Link" depends on it):
+       Task "VCMessage" skipped, due to false condition; ('@(_OutputFileFromLink)' == '') was evaluated as ('C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\bin\x86\Release\labjacku6.out' == '').
+       Task "VCMessage" skipped, due to false condition; ('@(_OutputFileFromLink)' != '' and '%(_OutputFileFromLink.FullPath)' != '$([System.IO.Path]::GetFullPath($(TargetPath)))') was evaluated as ('C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\bin\x86\Release\labjacku6.out' != '' and 'C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\bin\x86\Release\labjacku6.out' != 'C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\bin\x86\Release\labjacku6.out').
+       Task "VCMessage" skipped, due to false condition; ('@(_OutputFileFromLink)' != '' and '%(_OutputFileFromLink.Extension)' != '' and '%(_OutputFileFromLink.Extension)' != '$(TargetExt)') was evaluated as ('C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\bin\x86\Release\labjacku6.out' != '' and '.out' != '' and '.out' != '.out').
+       Task "VCMessage" skipped, due to false condition; ('@(_OutputFileFromLink)' != '' and '%(_OutputFileFromLink.Filename)' != '' and '%(_OutputFileFromLink.Filename)' != '$(TargetName)') was evaluated as ('C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\bin\x86\Release\labjacku6.out' != '' and 'labjacku6' != '' and 'labjacku6' != 'labjacku6').
+       Task "VCMessage" skipped, due to false condition; ('%(Link.MinimumRequiredVersion)' != '' and ('%(Link.Subsystem)' == '' or '%(Link.Subsystem)' == 'NotSet')) was evaluated as ('' != '' and ('' == '' or '' == 'NotSet')).
+     1>Done building target "DoLinkOutputFilesMatch" in project "labjacku6.vcxproj".
+     1>Target "PreLinkEvent" in file "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets" from project "C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjacku6.vcxproj" (target "_Link" depends on it):
+       Task "Message" skipped, due to false condition; ('%(PreLinkEvent.Message)' != '' and '%(PreLinkEvent.Command)' != '') was evaluated as ('' != '' and '' != '').
+       Task "Exec" skipped, due to false condition; ('%(PreLinkEvent.Command)' != '') was evaluated as ('' != '').
+     1>Done building target "PreLinkEvent" in project "labjacku6.vcxproj".
+     1>Target "Link" in file "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Application Type\Linux\1.0\Linux.WSL.targets" from project "C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjacku6.vcxproj" (target "_Link" depends on it):
+       Using "Ld" task from assembly "C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Application Type\Linux\1.0\Microsoft.Build.Linux.Tasks.dll".
+       Task "Ld"
+         Linking objects
+         Invoking 'ld'
+         g++ -o "/mnt/c/Users/adaware.NVIDIA.COM/source/repos/labjacku6/bin/x86/Release/labjacku6.out" -Wl,--no-undefined -Wl,-L/mnt/c/Users/adaware.NVIDIA.COM/source/repos/labjacku6 -Wl,-z,relro -Wl,-z,noexecstack /mnt/c/Users/adaware.NVIDIA.COM/source/repos/labjacku6/obj/x86/Release/main.o /mnt/c/Users/adaware.NVIDIA.COM/source/repos/labjacku6/obj/x86/Release/u6.o -llabjackusb
+         /usr/bin/ld: cannot find -llabjackusb
+         collect2: error: ld returned 1 exit status
+     1>/usr/bin/ld : error : cannot find -llabjackusb
+         Done linking, output file name: '/mnt/c/Users/adaware.NVIDIA.COM/source/repos/labjacku6/bin/x86/Release/labjacku6.out'
+       Done executing task "Ld" -- FAILED.
+     1>Done building target "Link" in project "labjacku6.vcxproj" -- FAILED.
+     1>Done Building Project "C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjacku6.vcxproj" (Rebuild target(s)) -- FAILED.
+
+Build FAILED.
+
+       "C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjacku6.vcxproj" (Rebuild target) (1) ->
+       (ClCompile target) -> 
+         C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\main.cpp(34,5): warning : label ‘done’ defined but not used [-Wunused-label]
+         C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(80,14): warning : conversion to ‘uint16 {aka short unsigned int}’ from ‘int’ may alter its value [-Wconversion]
+         C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(83,9): warning : conversion to ‘uint16 {aka short unsigned int}’ from ‘int’ may alter its value [-Wconversion]
+         C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(98,12): warning : conversion to ‘uint16 {aka short unsigned int}’ from ‘int’ may alter its value [-Wconversion]
+         C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(259,15): warning : conversion to ‘int’ from ‘long unsigned int’ may alter its value [-Wconversion]
+         C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(268,15): warning : conversion to ‘int’ from ‘long unsigned int’ may alter its value [-Wconversion]
+         C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(292,19): warning : conversion to ‘int’ from ‘long unsigned int’ may alter its value [-Wconversion]
+         C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(301,19): warning : conversion to ‘int’ from ‘long unsigned int’ may alter its value [-Wconversion]
+         C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(360,17): warning : conversion to ‘uint8 {aka unsigned char}’ from ‘int’ may alter its value [-Wconversion]
+         C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(369,11): warning : conversion to ‘int’ from ‘long int’ may alter its value [-Wconversion]
+         C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(463,18): warning : conversion to ‘uint32 {aka unsigned int}’ from ‘double’ may alter its value [-Wfloat-conversion]
+         C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(500,18): warning : conversion to ‘uint32 {aka unsigned int}’ from ‘double’ may alter its value [-Wfloat-conversion]
+         C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(547,45): warning : conversion to ‘long unsigned int’ from ‘int’ may change the sign of the result [-Wsign-conversion]
+         C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(548,44): warning : conversion to ‘long unsigned int’ from ‘int’ may change the sign of the result [-Wsign-conversion]
+         C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(554,19): warning : conversion to ‘uint8 {aka unsigned char}’ from ‘int’ may alter its value [-Wconversion]
+         C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(572,48): warning : conversion to ‘long unsigned int’ from ‘int’ may change the sign of the result [-Wsign-conversion]
+         C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(572,17): warning : conversion to ‘int’ from ‘long unsigned int’ may alter its value [-Wconversion]
+         C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(584,45): warning : conversion to ‘long unsigned int’ from ‘int’ may change the sign of the result [-Wsign-conversion]
+         C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(584,16): warning : conversion to ‘int’ from ‘long unsigned int’ may alter its value [-Wconversion]
+         C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(641,21): warning : conversion to ‘uint32 {aka unsigned int}’ from ‘int’ may change the sign of the result [-Wsign-conversion]
+         C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(642,24): warning : conversion to ‘uint32 {aka unsigned int}’ from ‘double’ may alter its value [-Wfloat-conversion]
+         C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(724,23): warning : conversion to ‘uint8 {aka unsigned char}’ from ‘int’ may alter its value [-Wconversion]
+         C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(725,23): warning : conversion to ‘uint8 {aka unsigned char}’ from ‘int’ may alter its value [-Wconversion]
+         C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(743,53): warning : conversion to ‘int’ from ‘long int’ may alter its value [-Wconversion]
+         C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(749,55): warning : conversion to ‘int’ from ‘long int’ may alter its value [-Wconversion]
+         C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(779,23): warning : conversion to ‘uint8 {aka unsigned char}’ from ‘long int’ may alter its value [-Wconversion]
+         C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(810,23): warning : conversion to ‘uint8 {aka unsigned char}’ from ‘long int’ may alter its value [-Wconversion]
+         C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(813,23): warning : conversion to ‘uint8 {aka unsigned char}’ from ‘long int’ may alter its value [-Wconversion]
+         C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(838,23): warning : conversion to ‘uint8 {aka unsigned char}’ from ‘long int’ may alter its value [-Wconversion]
+         C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(841,23): warning : conversion to ‘uint8 {aka unsigned char}’ from ‘long int’ may alter its value [-Wconversion]
+         C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(890,25): warning : conversion to ‘uint8 {aka unsigned char}’ from ‘double’ may alter its value [-Wfloat-conversion]
+         C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(894,56): warning : conversion to ‘uint8 {aka unsigned char}’ from ‘long int’ may alter its value [-Wconversion]
+         C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(906,33): warning : conversion to ‘uint8 {aka unsigned char}’ from ‘int’ may alter its value [-Wconversion]
+         C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(942,46): warning : conversion to ‘uint8 {aka unsigned char}’ from ‘int’ may alter its value [-Wconversion]
+         C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(956,46): warning : conversion to ‘uint8 {aka unsigned char}’ from ‘int’ may alter its value [-Wconversion]
+         C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(1018,22): warning : conversion to ‘int’ from ‘long unsigned int’ may alter its value [-Wconversion]
+         C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(1028,21): warning : conversion to ‘int’ from ‘long unsigned int’ may alter its value [-Wconversion]
+         C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(1097,22): warning : conversion to ‘int’ from ‘long unsigned int’ may alter its value [-Wconversion]
+         C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(1107,21): warning : conversion to ‘int’ from ‘long unsigned int’ may alter its value [-Wconversion]
+         C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(1166,24): warning : conversion to ‘int’ from ‘long int’ may alter its value [-Wconversion]
+         C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(1168,23): warning : conversion to ‘int’ from ‘long int’ may alter its value [-Wconversion]
+         C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(1171,45): warning : conversion to ‘long unsigned int’ from ‘int’ may change the sign of the result [-Wsign-conversion]
+         C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(1172,44): warning : conversion to ‘long unsigned int’ from ‘int’ may change the sign of the result [-Wsign-conversion]
+         C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(1184,19): warning : conversion to ‘uint8 {aka unsigned char}’ from ‘int’ may alter its value [-Wconversion]
+         C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(1196,53): warning : conversion to ‘long unsigned int’ from ‘int’ may change the sign of the result [-Wsign-conversion]
+         C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(1196,22): warning : conversion to ‘int’ from ‘long unsigned int’ may alter its value [-Wconversion]
+         C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(1207,50): warning : conversion to ‘long unsigned int’ from ‘int’ may change the sign of the result [-Wsign-conversion]
+         C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(1207,21): warning : conversion to ‘int’ from ‘long unsigned int’ may alter its value [-Wconversion]
+         C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\u6.c(820,25): warning : ‘recDataBuff’ may be used uninitialized in this function [-Wmaybe-uninitialized]
+
+
+       "C:\Users\adaware.NVIDIA.COM\source\repos\labjacku6\labjacku6.vcxproj" (Rebuild target) (1) ->
+       (Link target) -> 
+         /usr/bin/ld : error : cannot find -llabjackusb
+
+    49 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:02.35
